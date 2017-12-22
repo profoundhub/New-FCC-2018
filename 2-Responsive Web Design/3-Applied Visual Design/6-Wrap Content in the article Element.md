@@ -15,7 +15,11 @@ The section element is also new with HTML5, and has a slightly different semanti
     <section> - groups related content
     <article> - groups independent, self-contained content
 
-Task: 
+## Task: 
 
 Camper Cat used article tags to wrap the posts on his blog page, but he forgot to use them around the top one. Change the div tag to use an article tag instead.
 
+## Tests: 
+
+Your code should have three article tags.
+Your code should not have any div tags.
