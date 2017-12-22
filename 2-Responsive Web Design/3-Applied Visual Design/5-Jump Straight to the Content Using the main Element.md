@@ -8,4 +8,11 @@ The main element is used to wrap (you guessed it) the main content, and there sh
 
 The main tag also has an embedded landmark feature that assistive technology can use to quickly navigate to the main content. If you've ever seen a "Jump to Main Content" link at the top of a page, using a main tag automatically gives assistive devices that functionality.
 
+## Task:
+
 Camper Cat has some big ideas for his ninja weapons page. Help him set up his markup by adding opening and closing main tags between the header and footer (covered in other challenges). Keep the main tags empty for now.
+
+## Tests:
+
+* Your code should have one main tag.
+* The main tags should be between the closing header tag and the opening footer tag.
