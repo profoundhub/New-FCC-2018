@@ -21,5 +21,5 @@ Camper Cat used article tags to wrap the posts on his blog page, but he forgot t
 
 ## Tests: 
 
-Your code should have three article tags.
-Your code should not have any div tags.
+* Your code should have three article tags.
+* Your code should not have any div tags.

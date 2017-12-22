@@ -1,9 +1,10 @@
+
 <h1>Deep Thoughts with Master Camper Cat</h1>
 <main>
-  <div>
+  <article >
     <h2>The Garfield Files: Lasagna as Training Fuel?</h2>
     <p>The internet is littered with varying opinions on nutritional paradigms, from catnip paleo to hairball cleanses. But let's turn our attention to an often overlooked fitness fuel, and examine the protein-carb-NOM trifecta that is lasagna...</p>
-  </div>
+  </article >
 
   <img src="samuraiSwords.jpeg" alt="">
 
