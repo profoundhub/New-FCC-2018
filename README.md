@@ -1,7 +1,5 @@
-# New FCC 2018
-
-# FCC-Work
-FreeCodeCamp Work: https://www.freecodecamp.com/map
+# FCC-Work (2016-2017)
+[FreeCodeCamp Work](https://www.freecodecamp.com/map)
 
 ## Table of-Contents
 
@@ -17,6 +15,14 @@ No. | Title | Link
 8 | CSS Flexbox (5 hours) | +
 9 | Applied Responsive Web Design Projects | +
 
+## Notes:
+
 This is for the Newer version of freeCodeCamp, if you are looking for the repo for the older version, you can find it here: 
 
 We've started a new repo due to the changes in the FCC course structure. This way, people on the previous / current version can still find what they are looking for.
+
+### Versions
+
+[Older Version](https://github.com/profoundhub/FCC-Work/): [https://github.com/profoundhub/FCC-Work/](https://github.com/profoundhub/FCC-Work/)
+
+[New Repo](https://github.com/profoundhub/New-FCC-2018/) 
