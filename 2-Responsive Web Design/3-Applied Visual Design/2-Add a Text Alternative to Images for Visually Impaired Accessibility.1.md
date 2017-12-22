@@ -9,3 +9,4 @@ People with visual impairments rely on screen readers to convert web content to 
 
 Good alt text is short but descriptive, and meant to briefly convey the meaning of the image. You should always include an alt attribute on your image. Per HTML5 specification, this is now considered mandatory.
 
+Camper Cat happens to be both a coding ninja and an actual ninja, and is building a website to share his knowledge. The profile picture he wants to use shows his skills, and should be appreciated by all site visitors. Add an alt attribute in the img tag, that explains Camper Cat is doing karate. (The image src doesn't link to an actual file, so you should see the alt text in the display.)
