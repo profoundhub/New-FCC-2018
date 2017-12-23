@@ -1,1 +1,3 @@
 # Introduction to the Basic HTML and HTML5 Challenges
+
+HTML, or HyperText Markup Language, is a markup language to describe the structure of a web page. It uses a special syntax of elements to organize and give information about your content to the browser. Elements usually have opening and closing tags that surround and give meaning to content. For example, there are different tag options to place around text to show whether it's a heading, a paragraph, or a list.
