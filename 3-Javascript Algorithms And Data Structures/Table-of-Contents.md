@@ -1,5 +1,5 @@
 # Javascript Algorithms And Data Structures
-## Table of Contents: 
+## Table of Contents
 
 No. | Title | Link
 | ------------- |:-------------| -----:|
