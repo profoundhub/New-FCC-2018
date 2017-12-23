@@ -1,3 +1,3 @@
-# Table of Contents
+# About
 
-[SEE: Table of Contents](Table-of-Contents.md)
+The freeCodeCamp Guide is a collection of easy-to-understand guides to programming tools.
