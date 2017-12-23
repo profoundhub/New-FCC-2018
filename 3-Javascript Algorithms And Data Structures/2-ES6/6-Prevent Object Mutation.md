@@ -1,1 +1,1 @@
-# Prevent Object Mutation
+# ES6: Prevent Object Mutation
