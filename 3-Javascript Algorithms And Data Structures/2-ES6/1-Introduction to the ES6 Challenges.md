@@ -6,3 +6,13 @@ Most of the challenges on freeCodeCamp use the ECMAScript 5 (ES5) specification 
 
 The most recent standardized version is called ECMAScript 6 (ES6), released in 2015. This new version of the language adds some powerful features that will be covered in this section of challenges, including:
 
+* Arrow functions
+* Classes
+* Modules
+* Promises
+* Generators
+* `let` and `const`
+
+## Note
+
+Not all browsers support ES6 features. If you use ES6 in your own projects, you may need to use a program (transpiler) to convert your ES6 code into ES5 until browsers support ES6.
