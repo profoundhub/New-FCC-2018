@@ -1,1 +1,1 @@
-# 3-Compare Scopes of the var and let Keywords
+# Compare Scopes of the var and let Keywords
