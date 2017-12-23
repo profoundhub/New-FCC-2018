@@ -1,5 +1,6 @@
 
-# Table of Contents
+# Data Visualization 
+## Table of Contents
 
 No. | Title | Link
 | ------------- |:-------------| -----:|
