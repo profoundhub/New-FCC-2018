@@ -1,3 +1,3 @@
-# Table of Contents
+# About
 
-[SEE: Table of Contents](Table-of-Contents.md)
+Conference for Good is an open source conference management tool.
