@@ -22,3 +22,16 @@ The code runs in the following order:
 3. David is assigned to camper.
 
 This code will run without an error.
+
+A new keyword called let was introduced in ES6 to solve the problems with the var keyword. With the let keyword, all the examples we just saw will cause an error to appear. We can no longer overwrite variables or use a variable before we declare it. Some modern browsers require you to add "use strict"; to the top of your code before you can use the new features of ES6.
+
+Let's try using the let keyword.
+
+## Task: 
+
+Fix the code so that it only uses the let keyword and makes the errors go away.
+
+## Test:
+
+* redNosedReindeer should be Rudolph.
+* favorite should return Santa's favorite reindeer.
