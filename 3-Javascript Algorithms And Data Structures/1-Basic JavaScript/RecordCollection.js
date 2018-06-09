@@ -1,5 +1,5 @@
 // Setup
-var collection = {
+let collection = {
     "2548": {
       "album": "Slippery When Wet",
       "artist": "Bon Jovi",
@@ -25,7 +25,7 @@ var collection = {
     }
 };
 // Keep a copy of the collection for tests
-var collectionCopy = JSON.parse(JSON.stringify(collection));
+let collectionCopy = JSON.parse(JSON.stringify(collection));
 
 // Only change code below this line
 function updateRecords(id, prop, value) {
@@ -42,7 +42,7 @@ if (value !== '') {
   } else {
     delete collection[id][prop];
   }
-
+console.log(collection);
   return collection;
 }
 
