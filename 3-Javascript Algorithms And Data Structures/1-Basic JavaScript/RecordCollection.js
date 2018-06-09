@@ -36,13 +36,15 @@ if (value !== '') {
         collection[id][prop] = [];
         collection[id][prop].push(value);
       }
-    } else {
+    } else if (collection[id].hasOwnProperty('tracks')) {
+        collection[id].tracks = value;
+      } else {
       collection[id][prop] = value;       
     }         
   } else {
     delete collection[id][prop];
   }
-console.log(collection);
+console.log("collection: ", collection);
   return collection;
 }
 
