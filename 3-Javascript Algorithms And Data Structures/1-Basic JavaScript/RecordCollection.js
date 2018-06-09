@@ -36,8 +36,9 @@ if (value !== '') {
         collection[id][prop] = [];
         collection[id][prop].push(value);
       }
-  } else if (collection[id].hasOwnProperty(prop).isArray && collection[id][prop]) {
-      collection[id][prop] = value;                
+    } else {
+      collection[id][prop] = value;       
+    }         
   } else {
     delete collection[id][prop];
   }
