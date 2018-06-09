@@ -31,15 +31,13 @@ var collectionCopy = JSON.parse(JSON.stringify(collection));
 function updateRecords(id, prop, value) {
 
 if (value !== '') {
-      if (prop === 'tracks') {
-        if (!collection[id].hasOwnProperty(prop)) {
-          collection[id][prop] = [];
-          collection[id][prop].push(value);
-        }
-      } else {
-        
-        collection[id][prop] = value;
+  if (prop === 'tracks') {
+    if (!collection[id].hasOwnProperty(prop)) {
+        collection[id][prop] = [];
+        collection[id][prop].push(value);
       }
+  } else if (collection[id].hasOwnProperty(prop).isArray) {
+      collection[id][prop] = value;                
   } else {
     delete collection[id][prop];
   }
