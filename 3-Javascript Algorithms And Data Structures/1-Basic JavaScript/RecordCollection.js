@@ -1,5 +1,3 @@
-// work in progress ... broken since update
-
 // Setup
 var collection = {
     "2548": {
@@ -32,14 +30,14 @@ var collectionCopy = JSON.parse(JSON.stringify(collection));
 // Only change code below this line
 function updateRecords(id, prop, value) {
 
-if (value !== "") {
-      if (prop === "tracks") {
-        if (collection[id][prop].isArray) {
+if (value !== '') {
+      if (prop === 'tracks') {
+        if (!collection[id].hasOwnProperty(prop)) {
           collection[id][prop] = [];
-        
+          collection[id][prop].push(value);
         }
-        collection[id][prop].push(value);
       } else {
+        
         collection[id][prop] = value;
       }
   } else {
