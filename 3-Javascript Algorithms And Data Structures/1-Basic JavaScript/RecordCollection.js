@@ -33,9 +33,9 @@ function updateRecords(id, prop, value) {
 if (value !== '') {
   if (prop === 'tracks') {
     if (!collection[id].hasOwnProperty(prop)) {
-        collection[id][prop] = [];
-        collection[id][prop].push(value);
+        collection[id][prop] = [];        
       }
+      collection[id][prop].push(value);
     } else if (collection[id].hasOwnProperty('tracks')) {
         collection[id].tracks = value;
       } else {
