@@ -2,9 +2,9 @@
 ```
 <body>
 
-  <div>
+  <header>
     <h1>Training with Camper Cat</h1>
-  </div>
+  </header>
 
 
   <main>
