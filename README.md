@@ -16,6 +16,6 @@ This is for the *latest* version of the freeCodeCamp curriculum.
 
 ### Versions
 
-[Older Version](https://github.com/profoundhub/FCC-Work/): [https://github.com/profoundhub/FCC-Work/](https://github.com/profoundhub/FCC-Work/)
+[Previous Version](https://github.com/profoundhub/FCC-Work/)
 
-[New Repo](https://github.com/profoundhub/New-FCC-2018/) 
+[Original Repo We Forked](https://github.com/profoundhub/New-FCC-2018/) 
