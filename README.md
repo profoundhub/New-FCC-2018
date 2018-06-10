@@ -1,25 +1,18 @@
-# FCC-Work (2016-2017)
-[FreeCodeCamp Work](https://www.freecodecamp.com/map)
-
 ## Table of-Contents
 
 No. | Title | Link
 | ------------- |:-------------| -----:|
-1 | Intro to freeCodeCamp | +  
-2 | Responsive Web Design | +
-3 | Basic HTML and HTML5 (5 hours) | +
-4 | Basic CSS (5 hours) | +
-5 | Applied Visual Design (5 hours) | +
-6 | Applied Accessibility (5 hours) | +
-7 | Responsive Web Design Principles (5 hours) | +
-8 | CSS Flexbox (5 hours) | +
-9 | Applied Responsive Web Design Projects | +
+1 | Responsive Web Design Certification (300 hours) | +  
+2 | Javascript Algorithms And Data Structures Certification (300 hours) | +
+3 | Front End Libraries Certification (300 hours) | +
+4 | Data Visualization Certification (300 hours) | +
+5 | Apis And Microservices Certification (300 hours) | +
+6 | Information Security And Quality Assurance Certification (300 hours) | +
+7 | Coding Interview Prep (Thousands of hours of challenges) | +
 
 ## Notes:
 
-This is for the Newer version of freeCodeCamp, if you are looking for the repo for the older version, you can find it here: 
-
-We've started a new repo due to the changes in the FCC course structure. This way, people on the previous / current version can still find what they are looking for.
+This is for the *latest* version of the freeCodeCamp curriculum.
 
 ### Versions
 
