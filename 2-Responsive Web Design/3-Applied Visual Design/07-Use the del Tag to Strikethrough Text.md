@@ -1,4 +1,3 @@
-<!-- Create a Horizontal Line Using the hr Element -->
 ```
   <style>
     h4 {
@@ -29,8 +28,7 @@
   <div class="fullCard">
     <div class="cardContent">
       <div class="cardText">
-        <h4><del>Google</del>Alphabet</h4>
-        <hr>
+        <h4><del>Google</del> Alphabet</h4>
         <em><p>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</p></em>
       </div>
       <div class="cardLinks">
