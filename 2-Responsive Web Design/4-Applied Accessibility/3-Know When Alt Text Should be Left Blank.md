@@ -8,7 +8,7 @@
     <p>To Come...</p>
   </article>
 
-  <img src="samuraiSwords.jpeg">
+  <img src="samuraiSwords.jpeg" alt="">
 
   <article>
     <h2>Is Chuck Norris a Cat Person?</h2>
