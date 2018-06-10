@@ -2,5 +2,4 @@
 
 ```
     <img src="doingKarateWow.jpeg" alt="Doing Karate Wow">
-
 ```
