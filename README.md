@@ -12,7 +12,7 @@ No. | Title | Link
 
 ## Notes:
 
-This is for the *latest* version of the freeCodeCamp curriculum.
+This is the *latest* version of the freeCodeCamp curriculum.
 
 ### Versions
 
