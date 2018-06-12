@@ -1,6 +1,6 @@
 <!-- Improve Chart Accessibility with the figure Element -->
-```
 
+```
   <body>
     <header>
       <h1>Training</h1>
@@ -16,11 +16,11 @@
       <section>
 
         <!-- Add your code below this line -->
-        <<figure>>
+        <figure>
           <!-- Stacked bar chart will go here -->
           <br>
           <figcaption>Breakdown per week of time to spend training in stealth, combat, and weapons.</figcaption>
-        </<figure>>
+        </figure>
         <!-- Add your code above this line -->
 
       </section>
