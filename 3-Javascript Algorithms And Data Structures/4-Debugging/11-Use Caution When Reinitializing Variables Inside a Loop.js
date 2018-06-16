@@ -6,7 +6,7 @@ function zeroArray(m, n) {
   let row = [];
   for (let i = 0; i < m; i++) {
     // Adds the m-th row into newArray
-    
+      row=[];
     for (let j = 0; j < n; j++) {
       // Pushes n zeroes into the current row to create the columns
       row.push(0);
