@@ -6,7 +6,7 @@ const collection = {
         "album": "Slippery When Wet",
         "artist": "Bon Jovi",
         "tracks": [ 
-            "Let It Rock", 
+            "Let It Rock",
             "You Give Love a Bad Name"
       ]
     },
@@ -31,7 +31,7 @@ const collectionCopy = JSON.parse(JSON.stringify(collection));
 
 // Only change code below this line
 
-const updateRecords = (id, prop, value) => {
+const updateRecords = (id, prop, value) => {    
     if (value !== "") {
         if (prop === "tracks") {
             if (!collection[id].hasOwnProperty(prop)) {
