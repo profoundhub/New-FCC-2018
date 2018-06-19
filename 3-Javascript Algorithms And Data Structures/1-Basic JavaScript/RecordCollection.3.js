@@ -32,15 +32,14 @@ const collectionCopy = JSON.parse(JSON.stringify(collection));
 // Only change code below this line
 
 const updateRecords = (id, prop, value) => {
-
-    if (value !== '') {
-        if (prop === 'tracks') {
+    if (value !== "") {
+        if (prop === "tracks") {
             if (!collection[id].hasOwnProperty(prop)) {
-                collection[id][prop] = [];        
+                collection[id][prop] = [];
             }
             collection[id][prop].push(value);
         } else {
-            collection[id][prop] = value;       
+            collection[id][prop] = value;
         }
     } else {
         delete collection[id][prop];
