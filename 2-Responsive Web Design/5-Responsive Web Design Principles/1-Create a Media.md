@@ -5,7 +5,7 @@
   }
   
   /* Add media query below */
-  @media (max-width: 800px) { /* CSS Rules */ 
+  @media (max-height: 800px) { /* CSS Rules */ 
     p {
       font-size: 10px;
     }
