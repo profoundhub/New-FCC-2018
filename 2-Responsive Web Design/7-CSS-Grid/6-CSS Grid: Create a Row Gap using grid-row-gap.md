@@ -7,7 +7,6 @@ Create a gap for the rows that is `5px` tall.
 ## Solution: 
 
 ```
-
   <style>
     .d1{background:LightSkyBlue;}
     .d2{background:LightSalmon;}
@@ -24,7 +23,7 @@ Create a gap for the rows that is `5px` tall.
       grid-template-columns: 1fr 1fr 1fr;
       grid-template-rows: 1fr 1fr 1fr;
       /* add your code below this line */
-
+      grid-row-gap: 5px;
 
       /* add your code above this line */
     }
