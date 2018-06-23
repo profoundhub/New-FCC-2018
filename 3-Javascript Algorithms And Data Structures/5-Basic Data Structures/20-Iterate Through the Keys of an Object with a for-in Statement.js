@@ -25,12 +25,6 @@ function countOnline(obj) {
 	for (let user in users) if (users[user].online) no++;
 	return no;
   
-  // for (let user in users) {
-  // console.log(user);
-    
-  //    return user === "online";
-  
-// };
   // change code above this line
 }
 
