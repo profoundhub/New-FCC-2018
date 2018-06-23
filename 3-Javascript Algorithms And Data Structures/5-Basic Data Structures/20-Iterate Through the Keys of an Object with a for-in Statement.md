@@ -1,5 +1,4 @@
 // Iterate Through the Keys of an Object with a for ... in Statement
-
 let users = {
   Alan: {
     age: 27,
@@ -21,10 +20,16 @@ let users = {
 
 function countOnline(obj) {
   // change code below this line
-  for (let user in users) {
-  console.log(user);
-  return user === "online";
-};
+  let no = 0;
+	for (let user in users) if (users[user].online) no++;
+	return no;
+  
+  // for (let user in users) {
+  // console.log(user);
+    
+  //    return user === "online";
+  
+// };
   // change code above this line
 }
 
