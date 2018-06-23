@@ -23,7 +23,7 @@ function countOnline(obj) {
   // change code below this line
   let no = 0;
 	for (let user in users) if (users[user].online) no++;
-	return no;
+		return no;
   
   // change code above this line
 }
