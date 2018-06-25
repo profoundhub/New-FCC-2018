@@ -1,4 +1,5 @@
 <!-- Add Gaps Faster with grid-gap -->
+
 ```
   <style>
     .d1{background:LightSkyBlue;}
@@ -17,7 +18,7 @@
       grid-template-rows: 1fr 1fr 1fr;
       /* add your code below this line */
 
-
+      grid-gap: 10px 20px;
       /* add your code above this line */
     }
   </style>
