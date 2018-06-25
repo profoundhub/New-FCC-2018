@@ -11,7 +11,7 @@
     background: PaleGreen;
     /* add your code below this line */
     
-    
+    grid-column: 2 / 4;
     /* add your code above this line */
   }
   
