@@ -10,7 +10,7 @@
     background: PaleGreen;
     grid-column: 2 / 4;
     /* add your code below this line */
-    
+    grid-row: 2 / 4;
     
     /* add your code above this line */
   }
