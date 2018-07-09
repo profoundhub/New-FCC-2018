@@ -12,7 +12,6 @@
       background: PaleGreen;
       /* add your code below this line */
       grid-area: footer;
-
       /* add your code above this line */
     }
 
