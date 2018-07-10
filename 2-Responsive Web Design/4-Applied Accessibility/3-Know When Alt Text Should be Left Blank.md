@@ -1,1 +1,0 @@
-# Know When Alt Text Should be Left Blank
