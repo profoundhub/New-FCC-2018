@@ -1,4 +1,5 @@
-<!-- Add a box-shadow to a Card-like Element -->
+
+<!-- Decrease the Opacity of an Element -->
 ```
   <style>
     h4 {
@@ -13,12 +14,11 @@
     .links {
       text-align: left;
       color: black;
+      opacity: 0.7;
     }
-
     #thumbnail {
-       box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     }
-
     .fullCard {
       width: 245px;
       border: 1px solid #ccc;
@@ -46,4 +46,4 @@
       </div>
     </div>
   </div>
-```
+```  
