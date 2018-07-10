@@ -1,7 +1,5 @@
-# Place Items in Grid Areas Using the grid-area Property
-
+# CSS Grid: Use grid-area Without Creating an Areas Template
 ```
-
   <style>
     .item1{background:LightSkyBlue;}
     .item2{background:LightSalmon;}
@@ -11,7 +9,8 @@
     .item5 {
       background: PaleGreen;
       /* add your code below this line */
-      grid-area: footer;
+      grid-area: 3/1/4/4;
+
       /* add your code above this line */
     }
 
@@ -24,10 +23,6 @@
       grid-template-columns: 1fr 1fr 1fr;
       grid-template-rows: 1fr 1fr 1fr;
       grid-gap: 10px;
-      grid-template-areas: 
-        "header header header"
-        "advert content content"
-        "footer footer footer";
     }
   </style>
 
@@ -38,5 +33,4 @@
     <div class="item4">4</div>
     <div class="item5">5</div>
   </div>
-
 ```
