@@ -8,7 +8,6 @@ CSS Flexbox
 CSS Grid
 Responsive Web Design Projects
 
-
 ===========
 ABC:
 
@@ -23,7 +22,6 @@ G. CSS Grid
 H. Responsive Web Design Projects
 
 ===========
-
 
 ===========
 ABC:
