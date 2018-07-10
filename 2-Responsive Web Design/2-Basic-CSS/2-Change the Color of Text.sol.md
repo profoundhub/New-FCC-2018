@@ -1,5 +1,4 @@
-
-<h2>CatPhotoApp</h2>
+<h2 style="color: red;">CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
   
@@ -27,4 +26,6 @@
     <label><input type="checkbox" name="personality"> Lazy</label>
     <label><input type="checkbox" name="personality"> Energetic</label><br>
     <input type="text" placeholder="cat photo URL" required>
-    <button
+    <button type="submit">Submit</button>
+  </form>
+</main>
