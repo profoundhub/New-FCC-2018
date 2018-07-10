@@ -1,4 +1,4 @@
-<!-- Create Your First CSS Grid -->
+# Create Your First CSS Grid
 
 ```
   <style>
