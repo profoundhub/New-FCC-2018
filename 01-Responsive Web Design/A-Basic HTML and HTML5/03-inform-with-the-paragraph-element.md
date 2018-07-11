@@ -1,3 +1,5 @@
+# Basic HTML and HTML5: Inform with the Paragraph Element
+
 `p` elements are the preferred element for normal-sized paragraph text on websites. P is short for "paragraph".
 
 You can create a `p` element like this:
