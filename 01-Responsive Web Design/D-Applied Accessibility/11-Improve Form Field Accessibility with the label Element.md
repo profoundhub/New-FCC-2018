@@ -1,4 +1,4 @@
-<!-- Improve Form Field Accessibility with the label Element -->
+# Improve Form Field Accessibility with the label Element
 
   ```
   <body>
