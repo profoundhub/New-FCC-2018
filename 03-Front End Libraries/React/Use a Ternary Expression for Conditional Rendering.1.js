@@ -1,8 +1,7 @@
-
 const inputStyle = {
   width: 235,
   margin: 5
-}
+};
 
 class CheckUserAge extends React.Component {
   constructor(props) {
@@ -16,7 +15,7 @@ class CheckUserAge extends React.Component {
   handleChange(e) {
     this.setState({
       input: e.target.value,
-      userAge: ''
+      userAge: ""
     });
   }
   submit() {
@@ -35,11 +34,11 @@ class CheckUserAge extends React.Component {
           style={inputStyle}
           type="number"
           value={this.state.input}
-          onChange={this.handleChange} /><br />
-        {
-          /* change code here */
-        }
+          onChange={this.handleChange}
+        />
+        <br />
+        {/* change code here */}
       </div>
     );
   }
-};
+}
