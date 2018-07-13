@@ -12,3 +12,19 @@ class CampSite extends React.Component {
   };
   // change code below this line
   
+  const Camper = (props) => {
+     return (
+       <div>
+         <p>{props.name}</p>
+       </div>
+     );
+  };
+  
+  Camper.propTypes = {
+      name: PropTypes.string.isRequired
+  };
+  
+  Camper.defaultProps = {
+    name: 'CamperBot'
+  };
+  
