@@ -1,11 +1,9 @@
 # Make Screen Reader Navigation Easier with the header Landmark
 ```
   <body>
-
     <header>
       <h1>Training with Camper Cat</h1>
     </header>
-
     <main>
       <section id="stealth">
         <h2>Stealth &amp; Agility Training</h2>
