@@ -1,4 +1,4 @@
-<!-- Improve Accessibility of Audio Content with the audio Element -->
+# Improve Accessibility of Audio Content with the audio Element
 
 ```
   <body>
