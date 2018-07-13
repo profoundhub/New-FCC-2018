@@ -1,6 +1,6 @@
-<!-- Improve Form Field Accessibility with the label Element -->
+# Improve Form Field Accessibility with the label Element
 
-  ```
+```
   <body>
     <header>
       <h1>Deep Thoughts with Master Camper Cat</h1>
@@ -8,12 +8,9 @@
     <section>
       <form>
         <p>Sign up to receive Camper Cat's blog posts by email here!</p>
-
-
         <label for="email">Email:</label>
         <input type="text" id="email" name="email">
         <label for="submit"></label>
-
         <input type="submit" name="submit" value="Submit">
       </form>
     </section>

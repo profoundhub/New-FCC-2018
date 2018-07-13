@@ -1,6 +1,6 @@
 # Wrap Content in the article Element
 
-  ```
+```
   <h1>Deep Thoughts with Master Camper Cat</h1>
   <main>
     <article>

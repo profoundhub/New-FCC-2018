@@ -1,4 +1,4 @@
-<!-- Improve Chart Accessibility with the figure Element -->
+# Improve Chart Accessibility with the figure Element
 
 ```
   <body>
