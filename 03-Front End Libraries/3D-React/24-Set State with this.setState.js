@@ -7,8 +7,10 @@ class MyComponent extends React.Component {
 		this.click = this.click.bind(this);
 	}
 	click() {
-		// change code below this line
-
+		 // change code below this line
+		this.setState({
+			name: 'React Rocks!'
+		});
 	  // change code above this line
 	}
 	render() {
