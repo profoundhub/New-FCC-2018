@@ -1,3 +1,4 @@
+
 // React: Use a Ternary Expression for Conditional Rendering
 
 const inputStyle = {
@@ -50,3 +51,4 @@ class CheckUserAge extends React.Component {
     );
   }
 }
+
