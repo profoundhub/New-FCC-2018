@@ -1,7 +1,6 @@
 # Know When Alt Text Should be Left Blank
 
 ```
-
   <h1>Deep Thoughts with Master Camper Cat</h1>
   <article>
     <h2>Defeating your Foe: the Red Dot is Ours!</h2>
