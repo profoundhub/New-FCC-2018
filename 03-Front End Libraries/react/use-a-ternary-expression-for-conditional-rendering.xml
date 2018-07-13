@@ -1,7 +1,5 @@
-
-// React: Use a Ternary Expression for Conditional Rendering
-
-const inputStyle = {
+<?xml version="1.0" encoding="UTF-8" ?>
+<index.jsx>const inputStyle = {
   width: 235,
   margin: 5
 };
@@ -30,25 +28,31 @@ class CheckUserAge extends React.Component {
     });
   }
   render() {
-    const buttonOne = <button onClick={this.submit}>Submit</button>;
-    const buttonTwo = <button>You May Enter</button>;
-    const buttonThree = <button>You Shall Not Pass</button>;
+    const buttonOne = 
+	<button onClick={this.submit}>Submit</button>;
+    const buttonTwo = 
+	<button>You May Enter</button>;
+    const buttonThree = 
+	<button>You Shall Not Pass</button>;
     return (
-      <div>
-        <h3>Enter Your Age to Continue</h3>
-        <input
+      
+	<div>
+		<h3>Enter Your Age to Continue</h3>
+		<input
           style={inputStyle}
           type="number"
           value={this.state.input}
           onChange={this.handleChange}
         />
-        <br />
+		<br />
         {
           /* change code here */
           this.state.userAge === '' ? buttonOne : this.state.userAge >= 18 ? buttonTwo :buttonThree
         }
-      </div>
+      
+	</div>
     );
   }
 }
 
+</index.jsx>
