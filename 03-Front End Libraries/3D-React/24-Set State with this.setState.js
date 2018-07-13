@@ -1,22 +1,22 @@
 class MyComponent extends React.Component {
-    constructor(props) {
-      super(props);
-      this.state = {
-        name: 'Initial State'
-      };
-      this.handleClick = this.handleClick.bind(this);
-    }
-    handleClick() {
-      // change code below this line
-  
-      // change code above this line
-    }
-    render() {
-      return (
-        <div>
-          <button onClick={this.handleClick}>Click Me</button>
-          <h1>{this.state.name}</h1>
-        </div>
-      );
-    }
-  };
+	constructor(props) {
+		super(props);
+		this.state = {
+			name: 'Initial State'
+		};
+		this.click = this.click.bind(this);
+	}
+	click() {
+		// change code below this line
+
+	  // change code above this line
+	}
+	render() {
+  	return (
+	    <div>
+        <button onClick = {this.click}>Click Me</button>
+        <h1>{this.state.name}</h1>
+	    </div>
+    );
+  }
+};
