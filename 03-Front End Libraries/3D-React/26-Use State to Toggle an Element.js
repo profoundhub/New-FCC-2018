@@ -8,11 +8,11 @@ class MyComponent extends React.Component {
 
     // change code above this line
   }
-  // change code below this line
-  toggleVisibility = () => {
-		this.setState({
-			visibility: !this.state.visibility
-		});
+    // change code below this line
+        toggleVisibility = () => {
+	    this.setState({
+	        visibility: !this.state.visibility
+	    });
 	}
   // change code above this line
   render() {
