@@ -1,12 +1,11 @@
 <!-- Use the text-transform Property to Make Text Uppercase -->
-
 <style>
   h4 {
     text-align: center;
     background-color: rgba(45, 45, 45, 0.1);
     padding: 10px;
     font-size: 27px;
-    
+    text-transform: uppercase;
   }
   p {
     text-align: justify;
