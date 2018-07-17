@@ -1,3 +1,4 @@
+
 ```
     <style>
         .d1{background:LightSkyBlue;}
@@ -15,8 +16,8 @@
             grid-template-columns: 1fr 1fr 1fr;
             grid-template-rows: 1fr 1fr 1fr;
             /* add your code below this line */
-            
-            
+            grid-row-gap: 5px;
+            grid-column-gap: 20px;
             /* add your code above this line */
         }
     </style>
