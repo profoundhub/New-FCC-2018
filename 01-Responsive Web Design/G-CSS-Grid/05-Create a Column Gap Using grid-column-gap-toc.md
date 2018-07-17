@@ -2,9 +2,9 @@
 
 2. -org.md = Original Text in Middle Box
 
-3. -sol.md = Solutions
+3. -sol.md = Solution(s)
 
-4. -text.md = originial Text
+4. -text.md = originial Text in left Box
 
 5. .xml = XML file
 
