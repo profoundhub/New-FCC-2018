@@ -1,27 +1,31 @@
-# CSS Grid: Reduce Repetition Using the repeat Function
-
+# CSS Grid: Use grid-area Without Creating an Areas Template
 ```
   <style>
     .item1{background:LightSkyBlue;}
     .item2{background:LightSalmon;}
     .item3{background:PaleTurquoise;}
     .item4{background:LightPink;}
-    .item5{background:PaleGreen;}
-    
+
+    .item5 {
+      background: PaleGreen;
+      /* add your code below this line */
+      grid-area: 3/1/4/4;
+
+      /* add your code above this line */
+    }
+
     .container {
       font-size: 40px;
       min-height: 300px;
       width: 100%;
       background: LightGray;
       display: grid;
-      /* change the code below this line */      
-      grid-template-columns: repeat(3, 1fr);      
-      /* change the code above this line */
+      grid-template-columns: 1fr 1fr 1fr;
       grid-template-rows: 1fr 1fr 1fr;
       grid-gap: 10px;
     }
   </style>
-    
+
   <div class="container">
     <div class="item1">1</div>
     <div class="item2">2</div>
