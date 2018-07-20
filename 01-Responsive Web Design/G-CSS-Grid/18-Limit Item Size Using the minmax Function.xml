@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<index.html>
+		&lt;style&gt;
+		  .item1{background:LightSkyBlue;}
+		  .item2{background:LightSalmon;}
+		  .item3{background:PaleTurquoise;}
+		  .item4{background:LightPink;}
+		  .item5{background:PaleGreen;}
+		
+		  .container {
+		    font-size: 40px;
+		    min-height: 300px;
+		    width: 100%;
+		    background: LightGray;
+		    display: grid;
+		    /* change the code below this line */
+		
+		    grid-template-columns: repeat(3, minmax(90px, 1fr));
+		
+		    /* change the code above this line */
+		    grid-template-rows: 1fr 1fr 1fr;
+		    grid-gap: 10px;
+		  }
+		&lt;/style&gt;
+		
+		&lt;div class=&quot;container&quot;&gt;
+		  &lt;div class=&quot;item1&quot;&gt;1&lt;/div&gt;
+		  &lt;div class=&quot;item2&quot;&gt;2&lt;/div&gt;
+		  &lt;div class=&quot;item3&quot;&gt;3&lt;/div&gt;
+		  &lt;div class=&quot;item4&quot;&gt;4&lt;/div&gt;
+		  &lt;div class=&quot;item5&quot;&gt;5&lt;/div&gt;
+	&lt;/div&gt;</index.html>
+	
