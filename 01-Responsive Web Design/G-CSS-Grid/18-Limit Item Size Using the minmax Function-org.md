@@ -1,3 +1,4 @@
+```
 <style>
   .item1{background:LightSkyBlue;}
   .item2{background:LightSalmon;}
@@ -28,3 +29,4 @@
   <div class="item4">4</div>
   <div class="item5">5</div>
 </div>
+```
