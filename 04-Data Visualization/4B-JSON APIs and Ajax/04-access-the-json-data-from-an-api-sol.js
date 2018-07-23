@@ -9,9 +9,8 @@
         document.getElementsByClassName('message')[0].innerHTML=JSON.stringify(json);
         // Add your code below this line
         
-        console.log(json[0].altText);
-        // Prints "A white cat wearing a green helmet shaped melon on its head."
-
+        console.log(json[2].codeNames[1]);
+// Prints "A white cat wearing a green helmet shaped melon on its head."
         // Add your code above this line
       };
     };
