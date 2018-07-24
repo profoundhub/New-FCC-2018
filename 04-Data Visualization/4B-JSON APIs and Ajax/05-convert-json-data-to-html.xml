@@ -1,4 +1,6 @@
-<script>
+<?xml version="1.0" encoding="UTF-8" ?>
+<index.html>
+	<script>
   document.addEventListener('DOMContentLoaded',function(){
     document.getElementById('getMessage').onclick=function(){
       req=new XMLHttpRequest();
@@ -10,11 +12,16 @@
         // Add your code below this line
         json.forEach(function(val) {
         var keys = Object.keys(val);
-        html += "<div class = 'cat'>";
+        html += "
+		<div class = 'cat'>";
         keys.forEach(function(key) {
-          html += "<strong>" + key + "</strong>: " + val[key] + "<br>";
+          html += "
+			<strong>" + key + "</strong>: " + val[key] + "
+			<br>";
         });
-        html += "</div><br>";
+        html += "
+			</div>
+			<br>";
       });
               
         
@@ -23,8 +30,9 @@
       };
     };
   });
-</script>
-<style>
+
+			</script>
+			<style>
   body {
     text-align: center;
     font-family: "Helvetica", sans-serif;
@@ -50,12 +58,13 @@
     border: 1px solid #0F5897;
   }
 </style>
-<h1>Cat Photo Finder</h1> 
-<p class="message box">
+			<h1>Cat Photo Finder</h1>
+			<p class="message box">
   The message will go here
 </p>
-<p>
-  <button id="getMessage">
+			<p>
+				<button id="getMessage">
     Get Message
   </button>
-</p>
+			</p>
+		</index.html>
