@@ -1,5 +1,3 @@
-// JSON APIs and Ajax: Render Images from Data Sources
-
 <script>
   document.addEventListener('DOMContentLoaded',function(){
     document.getElementById('getMessage').onclick=function(){
@@ -13,7 +11,7 @@
           html += "<div class = 'cat'>";
           // Add your code below this line
           
-          
+          html += "<img src = '" + val.imageLink + "' " + "alt='" + val.altText + "'>";
           // Add your code above this line
           html += "</div><br>";
         });
