@@ -1,3 +1,3 @@
 # Build a Tribute Page
-## Add the link to your CodePen below 
-[JeanB](http://codepen.io/webmachine/pen/gmvQqM?editors=1100)
+Add the link to your CodePen below 
+* [JeanB](http://codepen.io/webmachine/pen/gmvQqM?editors=1100)
