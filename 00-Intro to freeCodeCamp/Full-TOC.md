@@ -22,40 +22,40 @@
 | 2H. | Functional Programming 		
 | 2I. | Intermediate Algorithm Scripting 	
 | 2J. | JavaScript Algorithms and Data Structures Projects 				
-
-3. Front End Libraries Certification (300 hours)
-3A. Bootstrap	 				
-3B. jQuery	 				
-3C. Sass	 				
-3D. React	 				
-3E. Redux	 				
-3F. React and Redux	 			
-3G. Front End Libraries Projects	 	
-
-4. Data Visualization Certification (300 hours)
-4A. Data Visualization with D3
-4B. JSON APIs and Ajax
-4C. Data Visualization Projects
-
-5. Apis And Microservices Certification (300 hours)
-5A. Managing Packages with NPM
-5B. Basic Node and Express
-5C. MongoDB and Mongoose
-5D. Apis and Microservices Projects
-
-6. Information Security And Quality Assurance Certification (300 hours)
-6A. Information Security with HelmetJS
-6B. Quality Assurance and Testing with Chai
-6C. Advanced Node and Express
-6D. Information Security and Quality Assurance Projects
-
-7. Coding Interview Prep (Thousands of hours of challenges)
-7A. Algorithms
-7B. Data Structures
-7C. Take Home Projects
-7D. Rosetta Code
-7E. Project Euler
-
+| | 
+| 3. | Front End Libraries Certification (300 hours)
+| 3A. | Bootstrap	 				
+| 3B. | jQuery	 				
+| 3C. | Sass	 				
+| 3D. | React	 				
+| 3E. | Redux	 				
+| 3F. | React and Redux	 			
+| 3G. | Front End Libraries Projects	 	
+| | 
+| 4. | Data Visualization Certification (300 hours)
+| 4A. | Data Visualization with D3
+| 4B. | JSON APIs and Ajax
+| 4C. | Data Visualization Projects
+| | 
+| 5. | Apis And Microservices Certification (300 hours)
+| 5A. | Managing Packages with NPM
+| 5B. | Basic Node and Express
+| 5C. | MongoDB and Mongoose
+| 5D. | Apis and Microservices Projects
+| | 
+| 6. | Information Security And Quality Assurance Certification (300 hours)
+| 6A. | Information Security with HelmetJS
+| 6B. | Quality Assurance and Testing with Chai
+| 6C. | Advanced Node and Express
+| 6D. | Information Security and Quality Assurance Projects
+| | 
+| 7. | Coding Interview Prep (Thousands of hours of challenges)
+| 7A. | Algorithms
+| 7B. | Data Structures
+| 7C. | Take Home Projects
+| 7D. | Rosetta Code
+| 7E. | Project Euler
+| | 
 ---
 
 # 0. Welcome to Code Camp Club
