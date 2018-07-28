@@ -1,14 +1,16 @@
 # Table of Contents
-
-* 1. Responsive Web Design Certification (300 hours)
-* * 1A. Basic HTML and HTML5
-* * 1B. Basic CSS
-* 1C. Applied Visual Design
-* 1D. Applied Accessibility
-* 1E. Responsive Web Design Principles
-* 1F. CSS Flexbox
-* 1G. CSS Grid
-* 1H. Responsive Web Design Projects
+| Number        | Title           | Notes  |
+| ------------- |:-------------| -----:|
+| 01. | Responsive Web Design Certification (300 hours) | 
+| 1A. | Basic HTML and HTML5 | 
+| 1B. | Basic CSS | 
+| 1C. | Applied Visual Design | 
+| 1D. | Applied Accessibility | 
+| 1E. | Responsive Web Design Principles | 
+| 1F. | CSS Flexbox | 
+| 1G. | CSS Grid | 
+| 1H. | Responsive Web Design Projects | 
+|  | 
 
 2. Javascript Algorithms And Data Structures Certification (300 hours)
 2A. Basic JavaScript
