@@ -57,10 +57,12 @@
 
 ==========================================================
 
-0. Welcome to Code Camp Club
+# 0. Welcome to Code Camp Club
 
-1. Responsive Web Design Certification (300 hours)
-1A. Basic HTML and HTML5
+==========================================================
+
+## 1. Responsive Web Design Certification (300 hours)
+## 1A. Basic HTML and HTML5
 	00 - Introduction to Basic HTML and HTML5
 	01 - Say Hello to HTML Elements 
 	02 - Headline with the h2 Element
