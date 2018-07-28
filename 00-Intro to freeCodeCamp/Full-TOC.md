@@ -1,4 +1,4 @@
-Table of Contents
+# Table of Contents
 
 1. Responsive Web Design Certification (300 hours)
 1A. Basic HTML and HTML5
@@ -58,6 +58,7 @@ Table of Contents
 ==========================================================
 
 0. Welcome to Code Camp Club
+
 1. Responsive Web Design Certification (300 hours)
 1A. Basic HTML and HTML5
 	00 - Introduction to Basic HTML and HTML5
@@ -88,10 +89,11 @@ Table of Contents
 	25 - Nest Many Elements within a Single div Element
 	26 - Declare the Doctype of an HTML Document
 	27 - Define the Head and Body of an HTML Document
+==========================================================
 
-	1B. Basic CSS
+## 1B. Basic CSS
 
-	00-Introduction to Basic CSS
+00-Introduction to Basic CSS
 01-Change the Color of Text
 02-Use CSS Selectors to Style Elements
 03-Use a CSS Class to Style an Element
@@ -136,17 +138,20 @@ Table of Contents
 42-Change a variable for a specific area
 43-Use a media query to change a variable
 
-1C. Applied Visual Design
-0-Introduction to the Applied Visual Design Challenges
-1-Create Visual Balance Using the text-align Property
-2-Adjust the Width of an Element Using the width Property
-3-Adjust the Height of an Element Using the height Property
-4-Use the strong Tag to Make Text Bold
-5-Use the u Tag to Underline Text
-6-Use the em Tag to Italicize Text
-7-Use the del Tag to Strikethrough Text
-8-Create a Horizontal Line Using the hr Element
-9-Adjust the background-color Property of Text
+==========================================================
+
+## 1C. Applied Visual Design
+
+00-Introduction to the Applied Visual Design Challenges
+01-Create Visual Balance Using the text-align Property
+02-Adjust the Width of an Element Using the width Property
+03-Adjust the Height of an Element Using the height Property
+04-Use the strong Tag to Make Text Bold
+05-Use the u Tag to Underline Text
+06-Use the em Tag to Italicize Text
+07-Use the del Tag to Strikethrough Text
+08-Create a Horizontal Line Using the hr Element
+09-Adjust the background-color Property of Text
 10-Adjust the Size of a Header Versus a Paragraph Tag
 11-Add a box-shadow to a Card-like Element
 12-Decrease the Opacity of an Element
@@ -226,20 +231,20 @@ Table of Contents
 86-Zhang-Suen thinning algorithm
 87-Zig-zag matrix
 
+==========================================================
 
+## 1D. Applied Accessibility
 
-1D. Applied Accessibility
-
-0-Introduction to the Applied Accessibility Challenges
-1-Add a Text Alternative to Images for Visually Impaired Accessibility
-2-Know When Alt Text Should be Left Blank
-3-Use Headings to Show Hierarchical Relationships of Content
-4-Jump Straight to the Content Using the main Element
-5	 - 	Wrap Content in the article Element
-6	 - 	Make Screen Reader Navigation Easier with the header Landmark
-7	 - 	Make Screen Reader Navigation Easier with the nav Landmark
-8	 - 	Make Screen Reader Navigation Easier with the footer Landmark
-9	 - 	Improve Accessibility of Audio Content with the audio Element
+00-Introduction to the Applied Accessibility Challenges
+01-Add a Text Alternative to Images for Visually Impaired Accessibility
+02-Know When Alt Text Should be Left Blank
+03-Use Headings to Show Hierarchical Relationships of Content
+04-Jump Straight to the Content Using the main Element
+05	 - 	Wrap Content in the article Element
+06	 - 	Make Screen Reader Navigation Easier with the header Landmark
+07	 - 	Make Screen Reader Navigation Easier with the nav Landmark
+08	 - 	Make Screen Reader Navigation Easier with the footer Landmark
+09	 - 	Improve Accessibility of Audio Content with the audio Element
 10	 - 	Improve Chart Accessibility with the figure Element
 11	 - 	Improve Form Field Accessibility with the label Element
 12	 - 	Wrap Radio Buttons in a fieldset Element for Better Accessibility
@@ -254,9 +259,9 @@ Table of Contents
 21	 - 	Use tabindex to Add Keyboard Focus to an Element
 22	 - 	Use tabindex to Specify the Order of Keyboard Focus for Several Elements
 
+==========================================================
 
-
-1E. Responsive Web Design Principles
+## 1E. Responsive Web Design Principles
 
 0-Introduction to the Responsive Web Design Challenges
 1-Create a Media Query
@@ -264,7 +269,9 @@ Table of Contents
 3-Use a Retina Image for Higher Resolution Displays
 4-Make Typography Responsive
 
-1F. CSS Flexbox
+==========================================================
+
+## 1F. CSS Flexbox
 
 0-Introduction to the CSS Flexbox Challenges
 1-Use display: flex to Position Two Boxes
@@ -285,7 +292,9 @@ Use the flex Shorthand Property
 Use the order Property to Rearrange Items
 Use the align-self Property
 
-1G. CSS Grid
+==========================================================
+
+## 1G. CSS Grid
 
 00-Introduction to the CSS Grid Challenges
 01-Create Your First CSS Grid
@@ -1652,15 +1661,3 @@ Use the align-self Property
 480	 - 	Problem 480: The Last Question
 
 ==========================================================
-
-
-
-
-
-
-
-
-
-
-
-
