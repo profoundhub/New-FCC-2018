@@ -11,7 +11,6 @@
 | 1G. | CSS Grid | 
 | 1H. | Responsive Web Design Projects | 
 |  | 
-
 | 2. | Javascript Algorithms And Data Structures Certification (300 hours)
 | 2A. | Basic JavaScript
 | 2B. | ES6 				
