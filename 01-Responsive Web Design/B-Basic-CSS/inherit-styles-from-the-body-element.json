@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family:monospace;\n    color: green\n  }\n\n</style>\n<h1> Hello World!</h1>\n"}
-=======
-{"index.html":"<style>\n  body {\n    background-color: black;\n    font-family: monospace;\n    color: green;\n  }\n\n</style>\n<h1>Hello World</h1>"}
->>>>>>> JeanB
