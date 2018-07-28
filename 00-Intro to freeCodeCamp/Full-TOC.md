@@ -1180,487 +1180,489 @@ Use the align-self Property
 85	 - 	Zeckendorf number representation
 86	 - 	Zhang-Suen thinning algorithm
 87	 - 	Zig-zag matrix
-7E. Project Euler
-0	 - 	Introduction to the Project Euler Problems
-1	 - 	Problem 1: Multiples of 3 and 5
-2	 - 	Problem 2: Even Fibonacci Numbers
-3	 - 	Problem 3: Largest prime factor
-4	 - 	Problem 4: Largest palindrome product
-5	 - 	Problem 5: Smallest multiple
-6	 - 	Problem 6: Sum square difference
-7	 - 	Problem 7: 10001st prime
-8	 - 	Problem 8: Largest product in a series
-9	 - 	Problem 9: Special Pythagorean triplet
-10	 - 	Problem 10: Summation of primes
-11	 - 	Problem 11: Largest product in a grid
-12	 - 	Problem 12: Highly divisible triangular number
-13	 - 	Problem 13: Large sum
-14	 - 	Problem 14: Longest Collatz sequence
-15	 - 	Problem 15: Lattice paths
-16	 - 	Problem 16: Power digit sum
-17	 - 	Problem 17: Number letter counts
-18	 - 	Problem 18: Maximum path sum I
-19	 - 	Problem 19: Counting Sundays
-20	 - 	Problem 20: Factorial digit sum
-21	 - 	Problem 21: Amicable numbers
-22	 - 	Problem 22: Names scores
-23	 - 	Problem 23: Non-abundant sums
-24	 - 	Problem 24: Lexicographic permutations
-25	 - 	Problem 25: 1000-digit Fibonacci number
-26	 - 	Problem 26: Reciprocal cycles
-27	 - 	Problem 27: Quadratic primes
-28	 - 	Problem 28: Number spiral diagonals
-29	 - 	Problem 29: Distinct powers
-30	 - 	Problem 30: Digit n powers
-31	 - 	Problem 31: Coin sums
-32	 - 	Problem 32: Pandigital products
-33	 - 	Problem 33: Digit cancelling fractions
-34	 - 	Problem 34: Digit factorials
-35	 - 	Problem 35: Circular primes
-36	 - 	Problem 36: Double-base palindromes
-37	 - 	Problem 37: Truncatable primes
-38	 - 	Problem 38: Pandigital multiples
-39	 - 	Problem 39: Integer right triangles
-40	 - 	Problem 40: Champernowne's constant
-41	 - 	Problem 41: Pandigital prime
-42	 - 	Problem 42: Coded triangle numbers
-43	 - 	Problem 43: Sub-string divisibility
-44	 - 	Problem 44: Pentagon numbers
-45	 - 	Problem 45: Triangular, pentagonal, and hexagonal
-46	 - 	Problem 46: Goldbach's other conjecture
-47	 - 	Problem 47: Distinct primes factors
-48	 - 	Problem 48: Self powers
-49	 - 	Problem 49: Prime permutations
-50	 - 	Problem 50: Consecutive prime sum
-51	 - 	Problem 51: Prime digit replacements
-52	 - 	Problem 52: Permuted multiples
-53	 - 	Problem 53: Combinatoric selections
-54	 - 	Problem 54: Poker hands
-55	 - 	Problem 55: Lychrel numbers
-56	 - 	Problem 56: Powerful digit sum
-57	 - 	Problem 57: Square root convergents
-58	 - 	Problem 58: Spiral primes
-59	 - 	Problem 59: XOR decryption
-60	 - 	Problem 60: Prime pair sets
-61	 - 	Problem 61: Cyclical figurate numbers
-62	 - 	Problem 62: Cubic permutations
-63	 - 	Problem 63: Powerful digit counts
-64	 - 	Problem 64: Odd period square roots
-65	 - 	Problem 65: Convergents of e
-66	 - 	Problem 66: Diophantine equation
-67	 - 	Problem 67: Maximum path sum II
-68	 - 	Problem 68: Magic 5-gon ring
-69	 - 	Problem 69: Totient maximum
-70	 - 	Problem 70: Totient permutation
-71	 - 	Problem 71: Ordered fractions
-72	 - 	Problem 72: Counting fractions
-73	 - 	Problem 73: Counting fractions in a range
-74	 - 	Problem 74: Digit factorial chains
-75	 - 	Problem 75: Singular integer right triangles
-76	 - 	Problem 76: Counting summations
-77	 - 	Problem 77: Prime summations
-78	 - 	Problem 78: Coin partitions
-79	 - 	Problem 79: Passcode derivation
-80	 - 	Problem 80: Square root digital expansion
-81	 - 	Problem 81: Path sum: two ways
-82	 - 	Problem 82: Path sum: three ways
-83	 - 	Problem 83: Path sum: four ways
-84	 - 	Problem 84: Monopoly odds
-85	 - 	Problem 85: Counting rectangles
-86	 - 	Problem 86: Cuboid route
-87	 - 	Problem 87: Prime power triples
-88	 - 	Problem 88: Product-sum numbers
-89	 - 	Problem 89: Roman numerals
-90	 - 	Problem 90: Cube digit pairs
-91	 - 	Problem 91: Right triangles with integer coordinates
-92	 - 	Problem 92: Square digit chains
-93	 - 	Problem 93: Arithmetic expressions
-94	 - 	Problem 94: Almost equilateral triangles
-95	 - 	Problem 95: Amicable chains
-96	 - 	Problem 96: Su Doku
-97	 - 	Problem 97: Large non-Mersenne prime
-98	 - 	Problem 98: Anagramic squares
-99	 - 	Problem 99: Largest exponential
-100	 - 	Problem 100: Arranged probability
-101	 - 	Problem 101: Optimum polynomial
-102	 - 	Problem 102: Triangle containment
-103	 - 	Problem 103: Special subset sums: optimum
-104	 - 	Problem 104: Pandigital Fibonacci ends
-105	 - 	Problem 105: Special subset sums: testing
-106	 - 	Problem 106: Special subset sums: meta-testing
-107	 - 	Problem 107: Minimal network
-108	 - 	Problem 108: Diophantine Reciprocals I
-109	 - 	Problem 109: Darts
-110	 - 	Problem 110: Diophantine Reciprocals II
-111	 - 	Problem 111: Primes with runs
-112	 - 	Problem 112: Bouncy numbers
-113	 - 	Problem 113: Non-bouncy numbers
-114	 - 	Problem 114: Counting block combinations I
-115	 - 	Problem 115: Counting block combinations II
-116	 - 	Problem 116: Red, green or blue tiles
-117	 - 	Problem 117: Red, green, and blue tiles
-118	 - 	Problem 118: Pandigital prime sets
-119	 - 	Problem 119: Digit power sum
-120	 - 	Problem 120: Square remainders
-121	 - 	Problem 121: Disc game prize fund
-122	 - 	Problem 122: Efficient exponentiation
-123	 - 	Problem 123: Prime square remainders
-124	 - 	Problem 124: Ordered radicals
-125	 - 	Problem 125: Palindromic sums
-126	 - 	Problem 126: Cuboid layers
-127	 - 	Problem 127: abc-hits
-128	 - 	Problem 128: Hexagonal tile differences
-129	 - 	Problem 129: Repunit divisibility
-130	 - 	Problem 130: Composites with prime repunit property
-131	 - 	Problem 131: Prime cube partnership
-132	 - 	Problem 132: Large repunit factors
-133	 - 	Problem 133: Repunit nonfactors
-134	 - 	Problem 134: Prime pair connection
-135	 - 	Problem 135: Same differences
-136	 - 	Problem 136: Singleton difference
-137	 - 	Problem 137: Fibonacci golden nuggets
-138	 - 	Problem 138: Special isosceles triangles
-139	 - 	Problem 139: Pythagorean tiles
-140	 - 	Problem 140: Modified Fibonacci golden nuggets
-141	 - 	Problem 141: Investigating progressive numbers, n, which are also square
-142	 - 	Problem 142: Perfect Square Collection
-143	 - 	Problem 143: Investigating the Torricelli point of a triangle
-144	 - 	Problem 144: Investigating multiple reflections of a laser beam
-145	 - 	Problem 145: How many reversible numbers are there below one-billion?
-146	 - 	Problem 146: Investigating a Prime Pattern
-147	 - 	Problem 147: Rectangles in cross-hatched grids
-148	 - 	Problem 148: Exploring Pascal's triangle
-149	 - 	Problem 149: Searching for a maximum-sum subsequence
-150	 - 	Problem 150: Searching a triangular array for a sub-triangle having minimum-sum
-151	 - 	Problem 151: Paper sheets of standard sizes: an expected-value problem
-152	 - 	Problem 152: Writing 1/2 as a sum of inverse squares
-153	 - 	Problem 153: Investigating Gaussian Integers
-154	 - 	Problem 154: Exploring Pascal's pyramid
-155	 - 	Problem 155: Counting Capacitor Circuits
-156	 - 	Problem 156: Counting Digits
-157	 - 	Problem 157: Solving the diophantine equation 1/a+1/b= p/10n
-158	 - 	Problem 158: Exploring strings for which only one character comes lexicographically after its neighbour to the left
-159	 - 	Problem 159: Digital root sums of factorisations
-160	 - 	Problem 160: Factorial trailing digits
-161	 - 	Problem 161: Triominoes
-162	 - 	Problem 162: Hexadecimal numbers
-163	 - 	Problem 163: Cross-hatched triangles
-164	 - 	Problem 164: Numbers for which no three consecutive digits have a sum greater than a given value
-165	 - 	Problem 165: Intersections
-166	 - 	Problem 166: Criss Cross
-167	 - 	Problem 167: Investigating Ulam sequences
-168	 - 	Problem 168: Number Rotations
-169	 - 	Problem 169: Exploring the number of different ways a number can be expressed as a sum of powers of 2
-170	 - 	Problem 170: Find the largest 0 to 9 pandigital that can be formed by concatenating products
-171	 - 	Problem 171: Finding numbers for which the sum of the squares of the digits is a square
-172	 - 	Problem 172: Investigating numbers with few repeated digits
-173	 - 	Problem 173: Using up to one million tiles how many different "hollow" square laminae can be formed?
-174	 - 	Problem 174: Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements
-175	 - 	Problem 175: Fractions involving the number of different ways a number can be expressed as a sum of powers of 2
-176	 - 	Problem 176: Right-angled triangles that share a cathetus
-177	 - 	Problem 177: Integer angled Quadrilaterals
-178	 - 	Problem 178: Step Numbers
-179	 - 	Problem 179: Consecutive positive divisors
-180	 - 	Problem 180: Rational zeros of a function of three variables
-181	 - 	Problem 181: Investigating in how many ways objects of two different colours can be grouped
-182	 - 	Problem 182: RSA encryption
-183	 - 	Problem 183: Maximum product of parts
-184	 - 	Problem 184: Triangles containing the origin
-185	 - 	Problem 185: Number Mind
-186	 - 	Problem 186: Connectedness of a network
-187	 - 	Problem 187: Semiprimes
-188	 - 	Problem 188: The hyperexponentiation of a number
-189	 - 	Problem 189: Tri-colouring a triangular grid
-190	 - 	Problem 190: Maximising a weighted product
-191	 - 	Problem 191: Prize Strings
-192	 - 	Problem 192: Best Approximations
-193	 - 	Problem 193: Squarefree Numbers
-194	 - 	Problem 194: Coloured Configurations
-195	 - 	Problem 195: Inscribed circles of triangles with one angle of 60 degrees
-196	 - 	Problem 196: Prime triplets
-197	 - 	Problem 197: Investigating the behaviour of a recursively defined sequence
-198	 - 	Problem 198: Ambiguous Numbers
-199	 - 	Problem 199: Iterative Circle Packing
-200	 - 	Problem 200: Find the 200th prime-proof sqube containing the contiguous sub-string "200"
-201	 - 	Problem 201: Subsets with a unique sum
-202	 - 	Problem 202: Laserbeam
-203	 - 	Problem 203: Squarefree Binomial Coefficients
-204	 - 	Problem 204: Generalised Hamming Numbers
-205	 - 	Problem 205: Dice Game
-206	 - 	Problem 206: Concealed Square
-207	 - 	Problem 207: Integer partition equations
-208	 - 	Problem 208: Robot Walks
-209	 - 	Problem 209: Circular Logic
-210	 - 	Problem 210: Obtuse Angled Triangles
-211	 - 	Problem 211: Divisor Square Sum
-212	 - 	Problem 212: Combined Volume of Cuboids
-213	 - 	Problem 213: Flea Circus
-214	 - 	Problem 214: Totient Chains
-215	 - 	Problem 215: Crack-free Walls
-216	 - 	Problem 216: Investigating the primality of numbers of the form 2n2-1
-217	 - 	Problem 217: Balanced Numbers
-218	 - 	Problem 218: Perfect right-angled triangles
-219	 - 	Problem 219: Skew-cost coding
-220	 - 	Problem 220: Heighway Dragon
-221	 - 	Problem 221: Alexandrian Integers
-222	 - 	Problem 222: Sphere Packing
-223	 - 	Problem 223: Almost right-angled triangles I
-224	 - 	Problem 224: Almost right-angled triangles II
-225	 - 	Problem 225: Tribonacci non-divisors
-226	 - 	Problem 226: A Scoop of Blancmange
-227	 - 	Problem 227: The Chase
-228	 - 	Problem 228: Minkowski Sums
-229	 - 	Problem 229: Four Representations using Squares
-230	 - 	Problem 230: Fibonacci Words
-231	 - 	Problem 231: The prime factorisation of binomial coefficients
-232	 - 	Problem 232: The Race
-233	 - 	Problem 233: Lattice points on a circle
-234	 - 	Problem 234: Semidivisible numbers
-235	 - 	Problem 235: An Arithmetic Geometric sequence
-236	 - 	Problem 236: Luxury Hampers
-237	 - 	Problem 237: Tours on a 4 x n playing board
-238	 - 	Problem 238: Infinite string tour
-239	 - 	Problem 239: Twenty-two Foolish Primes
-240	 - 	Problem 240: Top Dice
-241	 - 	Problem 241: Perfection Quotients
-242	 - 	Problem 242: Odd Triplets
-243	 - 	Problem 243: Resilience
-244	 - 	Problem 244: Sliders
-245	 - 	Problem 245: Coresilience
-246	 - 	Problem 246: Tangents to an ellipse
-247	 - 	Problem 247: Squares under a hyperbola
-248	 - 	Problem 248: Numbers for which Euler’s totient function equals 13!
-249	 - 	Problem 249: Prime Subset Sums
-250	 - 	Problem 250: 250250
-251	 - 	Problem 251: Cardano Triplets
-252	 - 	Problem 252: Convex Holes
-253	 - 	Problem 253: Tidying up
-254	 - 	Problem 254: Sums of Digit Factorials
-255	 - 	Problem 255: Rounded Square Roots
-256	 - 	Problem 256: Tatami-Free Rooms
-257	 - 	Problem 257: Angular Bisectors
-258	 - 	Problem 258: A lagged Fibonacci sequence
-259	 - 	Problem 259: Reachable Numbers
-260	 - 	Problem 260: Stone Game
-261	 - 	Problem 261: Pivotal Square Sums
-262	 - 	Problem 262: Mountain Range
-263	 - 	Problem 263: An engineers' dream come true
-264	 - 	Problem 264: Triangle Centres
-265	 - 	Problem 265: Binary Circles
-266	 - 	Problem 266: Pseudo Square Root
-267	 - 	Problem 267: Billionaire
-268	 - 	Problem 268: Counting numbers with at least four distinct prime factors less than 100
-269	 - 	Problem 269: Polynomials with at least one integer root
-270	 - 	Problem 270: Cutting Squares
-271	 - 	Problem 271: Modular Cubes, part 1
-272	 - 	Problem 272: Modular Cubes, part 2
-273	 - 	Problem 273: Sum of Squares
-274	 - 	Problem 274: Divisibility Multipliers
-275	 - 	Problem 275: Balanced Sculptures
-276	 - 	Problem 276: Primitive Triangles
-277	 - 	Problem 277: A Modified Collatz sequence
-278	 - 	Problem 278: Linear Combinations of Semiprimes
-279	 - 	Problem 279: Triangles with integral sides and an integral angle
-280	 - 	Problem 280: Ant and seeds
-281	 - 	Problem 281: Pizza Toppings
-282	 - 	Problem 282: The Ackermann function
-283	 - 	Problem 283: Integer sided triangles for which the area/perimeter ratio is integral
-284	 - 	Problem 284: Steady Squares
-285	 - 	Problem 285: Pythagorean odds
-286	 - 	Problem 286: Scoring probabilities
-287	 - 	Problem 287: Quadtree encoding (a simple compression algorithm)
-288	 - 	Problem 288: An enormous factorial
-289	 - 	Problem 289: Eulerian Cycles
-290	 - 	Problem 290: Digital Signature
-291	 - 	Problem 291: Panaitopol Primes
-292	 - 	Problem 292: Pythagorean Polygons
-293	 - 	Problem 293: Pseudo-Fortunate Numbers
-294	 - 	Problem 294: Sum of digits - experience #23
-295	 - 	Problem 295: Lenticular holes
-296	 - 	Problem 296: Angular Bisector and Tangent
-297	 - 	Problem 297: Zeckendorf Representation
-298	 - 	Problem 298: Selective Amnesia
-299	 - 	Problem 299: Three similar triangles
-300	 - 	Problem 300: Protein folding
-301	 - 	Problem 301: Nim
-302	 - 	Problem 302: Strong Achilles Numbers
-303	 - 	Problem 303: Multiples with small digits
-304	 - 	Problem 304: Primonacci
-305	 - 	Problem 305: Reflexive Position
-306	 - 	Problem 306: Paper-strip Game
-307	 - 	Problem 307: Chip Defects
-308	 - 	Problem 308: An amazing Prime-generating Automaton
-309	 - 	Problem 309: Integer Ladders
-310	 - 	Problem 310: Nim Square
-311	 - 	Problem 311: Biclinic Integral Quadrilaterals
-312	 - 	Problem 312: Cyclic paths on Sierpiński graphs
-313	 - 	Problem 313: Sliding game
-314	 - 	Problem 314: The Mouse on the Moon
-315	 - 	Problem 315: Digital root clocks
-316	 - 	Problem 316: Numbers in decimal expansions
-317	 - 	Problem 317: Firecracker
-318	 - 	Problem 318: 2011 nines
-319	 - 	Problem 319: Bounded Sequences
-320	 - 	Problem 320: Factorials divisible by a huge integer
-321	 - 	Problem 321: Swapping Counters
-322	 - 	Problem 322: Binomial coefficients divisible by 10
-323	 - 	Problem 323: Bitwise-OR operations on random integers
-324	 - 	Problem 324: Building a tower
-325	 - 	Problem 325: Stone Game II
-326	 - 	Problem 326: Modulo Summations
-327	 - 	Problem 327: Rooms of Doom
-328	 - 	Problem 328: Lowest-cost Search
-329	 - 	Problem 329: Prime Frog
-330	 - 	Problem 330: Euler's Number
-331	 - 	Problem 331: Cross flips
-332	 - 	Problem 332: Spherical triangles
-333	 - 	Problem 333: Special partitions
-334	 - 	Problem 334: Spilling the beans
-335	 - 	Problem 335: Gathering the beans
-336	 - 	Problem 336: Maximix Arrangements
-337	 - 	Problem 337: Totient Stairstep Sequences
-338	 - 	Problem 338: Cutting Rectangular Grid Paper
-339	 - 	Problem 339: Peredur fab Efrawg
-340	 - 	Problem 340: Crazy Function
-341	 - 	Problem 341: Golomb's self-describing sequence
-342	 - 	Problem 342: The totient of a square is a cube
-343	 - 	Problem 343: Fractional Sequences
-344	 - 	Problem 344: Silver dollar game
-345	 - 	Problem 345: Matrix Sum
-346	 - 	Problem 346: Strong Repunits
-347	 - 	Problem 347: Largest integer divisible by two primes
-348	 - 	Problem 348: Sum of a square and a cube
-349	 - 	Problem 349: Langton's ant
-350	 - 	Problem 350: Constraining the least greatest and the greatest least
-351	 - 	Problem 351: Hexagonal orchards
-352	 - 	Problem 352: Blood tests
-353	 - 	Problem 353: Risky moon
-354	 - 	Problem 354: Distances in a bee's honeycomb
-355	 - 	Problem 355: Maximal coprime subset
-356	 - 	Problem 356: Largest roots of cubic polynomials
-357	 - 	Problem 357: Prime generating integers
-358	 - 	Problem 358: Cyclic numbers
-359	 - 	Problem 359: Hilbert's New Hotel
-360	 - 	Problem 360: Scary Sphere
-361	 - 	Problem 361: Subsequence of Thue-Morse sequence
-362	 - 	Problem 362: Squarefree factors
-363	 - 	Problem 363: Bézier Curves
-364	 - 	Problem 364: Comfortable distance
-365	 - 	Problem 365: A huge binomial coefficient
-366	 - 	Problem 366: Stone Game III
-367	 - 	Problem 367: Bozo sort
-368	 - 	Problem 368: A Kempner-like series
-369	 - 	Problem 369: Badugi
-370	 - 	Problem 370: Geometric triangles
-371	 - 	Problem 371: Licence plates
-372	 - 	Problem 372: Pencils of rays
-373	 - 	Problem 373: Circumscribed Circles
-374	 - 	Problem 374: Maximum Integer Partition Product
-375	 - 	Problem 375: Minimum of subsequences
-376	 - 	Problem 376: Nontransitive sets of dice
-377	 - 	Problem 377: Sum of digits, experience 13
-378	 - 	Problem 378: Triangle Triples
-379	 - 	Problem 379: Least common multiple count
-380	 - 	Problem 380: Amazing Mazes!
-381	 - 	Problem 381: (prime-k) factorial
-382	 - 	Problem 382: Generating polygons
-383	 - 	Problem 383: Divisibility comparison between factorials
-384	 - 	Problem 384: Rudin-Shapiro sequence
-385	 - 	Problem 385: Ellipses inside triangles
-386	 - 	Problem 386: Maximum length of an antichain
-387	 - 	Problem 387: Harshad Numbers
-388	 - 	Problem 388: Distinct Lines
-389	 - 	Problem 389: Platonic Dice
-390	 - 	Problem 390: Triangles with non rational sides and integral area
-391	 - 	Problem 391: Hopping Game
-392	 - 	Problem 392: Enmeshed unit circle
-393	 - 	Problem 393: Migrating ants
-394	 - 	Problem 394: Eating pie
-395	 - 	Problem 395: Pythagorean tree
-396	 - 	Problem 396: Weak Goodstein sequence
-397	 - 	Problem 397: Triangle on parabola
-398	 - 	Problem 398: Cutting rope
-399	 - 	Problem 399: Squarefree Fibonacci Numbers
-400	 - 	Problem 400: Fibonacci tree game
-401	 - 	Problem 401: Sum of squares of divisors
-402	 - 	Problem 402: Integer-valued polynomials
-403	 - 	Problem 403: Lattice points enclosed by parabola and line
-404	 - 	Problem 404: Crisscross Ellipses
-405	 - 	Problem 405: A rectangular tiling
-406	 - 	Problem 406: Guessing Game
-407	 - 	Problem 407: Idempotents
-408	 - 	Problem 408: Admissible paths through a grid
-409	 - 	Problem 409: Nim Extreme
-410	 - 	Problem 410: Circle and tangent line
-411	 - 	Problem 411: Uphill paths
-412	 - 	Problem 412: Gnomon numbering
-413	 - 	Problem 413: One-child Numbers
-414	 - 	Problem 414: Kaprekar constant
-415	 - 	Problem 415: Titanic sets
-416	 - 	Problem 416: A frog's trip
-417	 - 	Problem 417: Reciprocal cycles II
-418	 - 	Problem 418: Factorisation triples
-419	 - 	Problem 419: Look and say sequence
-420	 - 	Problem 420: 2x2 positive integer matrix
-421	 - 	Problem 421: Prime factors of n15+1
-422	 - 	Problem 422: Sequence of points on a hyperbola
-423	 - 	Problem 423: Consecutive die throws
-424	 - 	Problem 424: Kakuro
-425	 - 	Problem 425: Prime connection
-426	 - 	Problem 426: Box-ball system
-427	 - 	Problem 427: n-sequences
-428	 - 	Problem 428: Necklace of Circles
-429	 - 	Problem 429: Sum of squares of unitary divisors
-430	 - 	Problem 430: Range flips
-431	 - 	Problem 431: Square Space Silo
-432	 - 	Problem 432: Totient sum
-433	 - 	Problem 433: Steps in Euclid's algorithm
-434	 - 	Problem 434: Rigid graphs
-435	 - 	Problem 435: Polynomials of Fibonacci numbers
-436	 - 	Problem 436: Unfair wager
-437	 - 	Problem 437: Fibonacci primitive roots
-438	 - 	Problem 438: Integer part of polynomial equation's solutions
-439	 - 	Problem 439: Sum of sum of divisors
-440	 - 	Problem 440: GCD and Tiling
-441	 - 	Problem 441: The inverse summation of coprime couples
-442	 - 	Problem 442: Eleven-free integers
-443	 - 	Problem 443: GCD sequence
-444	 - 	Problem 444: The Roundtable Lottery
-445	 - 	Problem 445: Retractions A
-446	 - 	Problem 446: Retractions B
-447	 - 	Problem 447: Retractions C
-448	 - 	Problem 448: Average least common multiple
-449	 - 	Problem 449: Chocolate covered candy
-450	 - 	Problem 450: Hypocycloid and Lattice points
-451	 - 	Problem 451: Modular inverses
-452	 - 	Problem 452: Long Products
-453	 - 	Problem 453: Lattice Quadrilaterals
-454	 - 	Problem 454: Diophantine reciprocals III
-455	 - 	Problem 455: Powers With Trailing Digits
-456	 - 	Problem 456: Triangles containing the origin II
-457	 - 	Problem 457: A polynomial modulo the square of a prime
-458	 - 	Problem 458: Permutations of Project
-459	 - 	Problem 459: Flipping game
-460	 - 	Problem 460: An ant on the move
-461	 - 	Problem 461: Almost Pi
-462	 - 	Problem 462: Permutation of 3-smooth numbers
-463	 - 	Problem 463: A weird recurrence relation
-464	 - 	Problem 464: Möbius function and intervals
-465	 - 	Problem 465: Polar polygons
-466	 - 	Problem 466: Distinct terms in a multiplication table
-467	 - 	Problem 467: Superinteger
-468	 - 	Problem 468: Smooth divisors of binomial coefficients
-469	 - 	Problem 469: Empty chairs
-470	 - 	Problem 470: Super Ramvok
-471	 - 	Problem 471: Triangle inscribed in ellipse
-472	 - 	Problem 472: Comfortable Distance II
-473	 - 	Problem 473: Phigital number base
-474	 - 	Problem 474: Last digits of divisors
-475	 - 	Problem 475: Music festival
-476	 - 	Problem 476: Circle Packing II
-477	 - 	Problem 477: Number Sequence Game
-478	 - 	Problem 478: Mixtures
-479	 - 	Problem 479: Roots on the Rise
-480	 - 	Problem 480: The Last Question
 
+## 7E. Project Euler
+```
+	0	 - 	Introduction to the Project Euler Problems
+	1	 - 	Problem 1: Multiples of 3 and 5
+	2	 - 	Problem 2: Even Fibonacci Numbers
+	3	 - 	Problem 3: Largest prime factor
+	4	 - 	Problem 4: Largest palindrome product
+	5	 - 	Problem 5: Smallest multiple
+	6	 - 	Problem 6: Sum square difference
+	7	 - 	Problem 7: 10001st prime
+	8	 - 	Problem 8: Largest product in a series
+	9	 - 	Problem 9: Special Pythagorean triplet
+	10	 - 	Problem 10: Summation of primes
+	11	 - 	Problem 11: Largest product in a grid
+	12	 - 	Problem 12: Highly divisible triangular number
+	13	 - 	Problem 13: Large sum
+	14	 - 	Problem 14: Longest Collatz sequence
+	15	 - 	Problem 15: Lattice paths
+	16	 - 	Problem 16: Power digit sum
+	17	 - 	Problem 17: Number letter counts
+	18	 - 	Problem 18: Maximum path sum I
+	19	 - 	Problem 19: Counting Sundays
+	20	 - 	Problem 20: Factorial digit sum
+	21	 - 	Problem 21: Amicable numbers
+	22	 - 	Problem 22: Names scores
+	23	 - 	Problem 23: Non-abundant sums
+	24	 - 	Problem 24: Lexicographic permutations
+	25	 - 	Problem 25: 1000-digit Fibonacci number
+	26	 - 	Problem 26: Reciprocal cycles
+	27	 - 	Problem 27: Quadratic primes
+	28	 - 	Problem 28: Number spiral diagonals
+	29	 - 	Problem 29: Distinct powers
+	30	 - 	Problem 30: Digit n powers
+	31	 - 	Problem 31: Coin sums
+	32	 - 	Problem 32: Pandigital products
+	33	 - 	Problem 33: Digit cancelling fractions
+	34	 - 	Problem 34: Digit factorials
+	35	 - 	Problem 35: Circular primes
+	36	 - 	Problem 36: Double-base palindromes
+	37	 - 	Problem 37: Truncatable primes
+	38	 - 	Problem 38: Pandigital multiples
+	39	 - 	Problem 39: Integer right triangles
+	40	 - 	Problem 40: Champernowne's constant
+	41	 - 	Problem 41: Pandigital prime
+	42	 - 	Problem 42: Coded triangle numbers
+	43	 - 	Problem 43: Sub-string divisibility
+	44	 - 	Problem 44: Pentagon numbers
+	45	 - 	Problem 45: Triangular, pentagonal, and hexagonal
+	46	 - 	Problem 46: Goldbach's other conjecture
+	47	 - 	Problem 47: Distinct primes factors
+	48	 - 	Problem 48: Self powers
+	49	 - 	Problem 49: Prime permutations
+	50	 - 	Problem 50: Consecutive prime sum
+	51	 - 	Problem 51: Prime digit replacements
+	52	 - 	Problem 52: Permuted multiples
+	53	 - 	Problem 53: Combinatoric selections
+	54	 - 	Problem 54: Poker hands
+	55	 - 	Problem 55: Lychrel numbers
+	56	 - 	Problem 56: Powerful digit sum
+	57	 - 	Problem 57: Square root convergents
+	58	 - 	Problem 58: Spiral primes
+	59	 - 	Problem 59: XOR decryption
+	60	 - 	Problem 60: Prime pair sets
+	61	 - 	Problem 61: Cyclical figurate numbers
+	62	 - 	Problem 62: Cubic permutations
+	63	 - 	Problem 63: Powerful digit counts
+	64	 - 	Problem 64: Odd period square roots
+	65	 - 	Problem 65: Convergents of e
+	66	 - 	Problem 66: Diophantine equation
+	67	 - 	Problem 67: Maximum path sum II
+	68	 - 	Problem 68: Magic 5-gon ring
+	69	 - 	Problem 69: Totient maximum
+	70	 - 	Problem 70: Totient permutation
+	71	 - 	Problem 71: Ordered fractions
+	72	 - 	Problem 72: Counting fractions
+	73	 - 	Problem 73: Counting fractions in a range
+	74	 - 	Problem 74: Digit factorial chains
+	75	 - 	Problem 75: Singular integer right triangles
+	76	 - 	Problem 76: Counting summations
+	77	 - 	Problem 77: Prime summations
+	78	 - 	Problem 78: Coin partitions
+	79	 - 	Problem 79: Passcode derivation
+	80	 - 	Problem 80: Square root digital expansion
+	81	 - 	Problem 81: Path sum: two ways
+	82	 - 	Problem 82: Path sum: three ways
+	83	 - 	Problem 83: Path sum: four ways
+	84	 - 	Problem 84: Monopoly odds
+	85	 - 	Problem 85: Counting rectangles
+	86	 - 	Problem 86: Cuboid route
+	87	 - 	Problem 87: Prime power triples
+	88	 - 	Problem 88: Product-sum numbers
+	89	 - 	Problem 89: Roman numerals
+	90	 - 	Problem 90: Cube digit pairs
+	91	 - 	Problem 91: Right triangles with integer coordinates
+	92	 - 	Problem 92: Square digit chains
+	93	 - 	Problem 93: Arithmetic expressions
+	94	 - 	Problem 94: Almost equilateral triangles
+	95	 - 	Problem 95: Amicable chains
+	96	 - 	Problem 96: Su Doku
+	97	 - 	Problem 97: Large non-Mersenne prime
+	98	 - 	Problem 98: Anagramic squares
+	99	 - 	Problem 99: Largest exponential
+	100	 - 	Problem 100: Arranged probability
+	101	 - 	Problem 101: Optimum polynomial
+	102	 - 	Problem 102: Triangle containment
+	103	 - 	Problem 103: Special subset sums: optimum
+	104	 - 	Problem 104: Pandigital Fibonacci ends
+	105	 - 	Problem 105: Special subset sums: testing
+	106	 - 	Problem 106: Special subset sums: meta-testing
+	107	 - 	Problem 107: Minimal network
+	108	 - 	Problem 108: Diophantine Reciprocals I
+	109	 - 	Problem 109: Darts
+	110	 - 	Problem 110: Diophantine Reciprocals II
+	111	 - 	Problem 111: Primes with runs
+	112	 - 	Problem 112: Bouncy numbers
+	113	 - 	Problem 113: Non-bouncy numbers
+	114	 - 	Problem 114: Counting block combinations I
+	115	 - 	Problem 115: Counting block combinations II
+	116	 - 	Problem 116: Red, green or blue tiles
+	117	 - 	Problem 117: Red, green, and blue tiles
+	118	 - 	Problem 118: Pandigital prime sets
+	119	 - 	Problem 119: Digit power sum
+	120	 - 	Problem 120: Square remainders
+	121	 - 	Problem 121: Disc game prize fund
+	122	 - 	Problem 122: Efficient exponentiation
+	123	 - 	Problem 123: Prime square remainders
+	124	 - 	Problem 124: Ordered radicals
+	125	 - 	Problem 125: Palindromic sums
+	126	 - 	Problem 126: Cuboid layers
+	127	 - 	Problem 127: abc-hits
+	128	 - 	Problem 128: Hexagonal tile differences
+	129	 - 	Problem 129: Repunit divisibility
+	130	 - 	Problem 130: Composites with prime repunit property
+	131	 - 	Problem 131: Prime cube partnership
+	132	 - 	Problem 132: Large repunit factors
+	133	 - 	Problem 133: Repunit nonfactors
+	134	 - 	Problem 134: Prime pair connection
+	135	 - 	Problem 135: Same differences
+	136	 - 	Problem 136: Singleton difference
+	137	 - 	Problem 137: Fibonacci golden nuggets
+	138	 - 	Problem 138: Special isosceles triangles
+	139	 - 	Problem 139: Pythagorean tiles
+	140	 - 	Problem 140: Modified Fibonacci golden nuggets
+	141	 - 	Problem 141: Investigating progressive numbers, n, which are also square
+	142	 - 	Problem 142: Perfect Square Collection
+	143	 - 	Problem 143: Investigating the Torricelli point of a triangle
+	144	 - 	Problem 144: Investigating multiple reflections of a laser beam
+	145	 - 	Problem 145: How many reversible numbers are there below one-billion?
+	146	 - 	Problem 146: Investigating a Prime Pattern
+	147	 - 	Problem 147: Rectangles in cross-hatched grids
+	148	 - 	Problem 148: Exploring Pascal's triangle
+	149	 - 	Problem 149: Searching for a maximum-sum subsequence
+	150	 - 	Problem 150: Searching a triangular array for a sub-triangle having minimum-sum
+	151	 - 	Problem 151: Paper sheets of standard sizes: an expected-value problem
+	152	 - 	Problem 152: Writing 1/2 as a sum of inverse squares
+	153	 - 	Problem 153: Investigating Gaussian Integers
+	154	 - 	Problem 154: Exploring Pascal's pyramid
+	155	 - 	Problem 155: Counting Capacitor Circuits
+	156	 - 	Problem 156: Counting Digits
+	157	 - 	Problem 157: Solving the diophantine equation 1/a+1/b= p/10n
+	158	 - 	Problem 158: Exploring strings for which only one character comes lexicographically after its neighbour to the left
+	159	 - 	Problem 159: Digital root sums of factorisations
+	160	 - 	Problem 160: Factorial trailing digits
+	161	 - 	Problem 161: Triominoes
+	162	 - 	Problem 162: Hexadecimal numbers
+	163	 - 	Problem 163: Cross-hatched triangles
+	164	 - 	Problem 164: Numbers for which no three consecutive digits have a sum greater than a given value
+	165	 - 	Problem 165: Intersections
+	166	 - 	Problem 166: Criss Cross
+	167	 - 	Problem 167: Investigating Ulam sequences
+	168	 - 	Problem 168: Number Rotations
+	169	 - 	Problem 169: Exploring the number of different ways a number can be expressed as a sum of powers of 2
+	170	 - 	Problem 170: Find the largest 0 to 9 pandigital that can be formed by concatenating products
+	171	 - 	Problem 171: Finding numbers for which the sum of the squares of the digits is a square
+	172	 - 	Problem 172: Investigating numbers with few repeated digits
+	173	 - 	Problem 173: Using up to one million tiles how many different "hollow" square laminae can be formed?
+	174	 - 	Problem 174: Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements
+	175	 - 	Problem 175: Fractions involving the number of different ways a number can be expressed as a sum of powers of 2
+	176	 - 	Problem 176: Right-angled triangles that share a cathetus
+	177	 - 	Problem 177: Integer angled Quadrilaterals
+	178	 - 	Problem 178: Step Numbers
+	179	 - 	Problem 179: Consecutive positive divisors
+	180	 - 	Problem 180: Rational zeros of a function of three variables
+	181	 - 	Problem 181: Investigating in how many ways objects of two different colours can be grouped
+	182	 - 	Problem 182: RSA encryption
+	183	 - 	Problem 183: Maximum product of parts
+	184	 - 	Problem 184: Triangles containing the origin
+	185	 - 	Problem 185: Number Mind
+	186	 - 	Problem 186: Connectedness of a network
+	187	 - 	Problem 187: Semiprimes
+	188	 - 	Problem 188: The hyperexponentiation of a number
+	189	 - 	Problem 189: Tri-colouring a triangular grid
+	190	 - 	Problem 190: Maximising a weighted product
+	191	 - 	Problem 191: Prize Strings
+	192	 - 	Problem 192: Best Approximations
+	193	 - 	Problem 193: Squarefree Numbers
+	194	 - 	Problem 194: Coloured Configurations
+	195	 - 	Problem 195: Inscribed circles of triangles with one angle of 60 degrees
+	196	 - 	Problem 196: Prime triplets
+	197	 - 	Problem 197: Investigating the behaviour of a recursively defined sequence
+	198	 - 	Problem 198: Ambiguous Numbers
+	199	 - 	Problem 199: Iterative Circle Packing
+	200	 - 	Problem 200: Find the 200th prime-proof sqube containing the contiguous sub-string "200"
+	201	 - 	Problem 201: Subsets with a unique sum
+	202	 - 	Problem 202: Laserbeam
+	203	 - 	Problem 203: Squarefree Binomial Coefficients
+	204	 - 	Problem 204: Generalised Hamming Numbers
+	205	 - 	Problem 205: Dice Game
+	206	 - 	Problem 206: Concealed Square
+	207	 - 	Problem 207: Integer partition equations
+	208	 - 	Problem 208: Robot Walks
+	209	 - 	Problem 209: Circular Logic
+	210	 - 	Problem 210: Obtuse Angled Triangles
+	211	 - 	Problem 211: Divisor Square Sum
+	212	 - 	Problem 212: Combined Volume of Cuboids
+	213	 - 	Problem 213: Flea Circus
+	214	 - 	Problem 214: Totient Chains
+	215	 - 	Problem 215: Crack-free Walls
+	216	 - 	Problem 216: Investigating the primality of numbers of the form 2n2-1
+	217	 - 	Problem 217: Balanced Numbers
+	218	 - 	Problem 218: Perfect right-angled triangles
+	219	 - 	Problem 219: Skew-cost coding
+	220	 - 	Problem 220: Heighway Dragon
+	221	 - 	Problem 221: Alexandrian Integers
+	222	 - 	Problem 222: Sphere Packing
+	223	 - 	Problem 223: Almost right-angled triangles I
+	224	 - 	Problem 224: Almost right-angled triangles II
+	225	 - 	Problem 225: Tribonacci non-divisors
+	226	 - 	Problem 226: A Scoop of Blancmange
+	227	 - 	Problem 227: The Chase
+	228	 - 	Problem 228: Minkowski Sums
+	229	 - 	Problem 229: Four Representations using Squares
+	230	 - 	Problem 230: Fibonacci Words
+	231	 - 	Problem 231: The prime factorisation of binomial coefficients
+	232	 - 	Problem 232: The Race
+	233	 - 	Problem 233: Lattice points on a circle
+	234	 - 	Problem 234: Semidivisible numbers
+	235	 - 	Problem 235: An Arithmetic Geometric sequence
+	236	 - 	Problem 236: Luxury Hampers
+	237	 - 	Problem 237: Tours on a 4 x n playing board
+	238	 - 	Problem 238: Infinite string tour
+	239	 - 	Problem 239: Twenty-two Foolish Primes
+	240	 - 	Problem 240: Top Dice
+	241	 - 	Problem 241: Perfection Quotients
+	242	 - 	Problem 242: Odd Triplets
+	243	 - 	Problem 243: Resilience
+	244	 - 	Problem 244: Sliders
+	245	 - 	Problem 245: Coresilience
+	246	 - 	Problem 246: Tangents to an ellipse
+	247	 - 	Problem 247: Squares under a hyperbola
+	248	 - 	Problem 248: Numbers for which Euler’s totient function equals 13!
+	249	 - 	Problem 249: Prime Subset Sums
+	250	 - 	Problem 250: 250250
+	251	 - 	Problem 251: Cardano Triplets
+	252	 - 	Problem 252: Convex Holes
+	253	 - 	Problem 253: Tidying up
+	254	 - 	Problem 254: Sums of Digit Factorials
+	255	 - 	Problem 255: Rounded Square Roots
+	256	 - 	Problem 256: Tatami-Free Rooms
+	257	 - 	Problem 257: Angular Bisectors
+	258	 - 	Problem 258: A lagged Fibonacci sequence
+	259	 - 	Problem 259: Reachable Numbers
+	260	 - 	Problem 260: Stone Game
+	261	 - 	Problem 261: Pivotal Square Sums
+	262	 - 	Problem 262: Mountain Range
+	263	 - 	Problem 263: An engineers' dream come true
+	264	 - 	Problem 264: Triangle Centres
+	265	 - 	Problem 265: Binary Circles
+	266	 - 	Problem 266: Pseudo Square Root
+	267	 - 	Problem 267: Billionaire
+	268	 - 	Problem 268: Counting numbers with at least four distinct prime factors less than 100
+	269	 - 	Problem 269: Polynomials with at least one integer root
+	270	 - 	Problem 270: Cutting Squares
+	271	 - 	Problem 271: Modular Cubes, part 1
+	272	 - 	Problem 272: Modular Cubes, part 2
+	273	 - 	Problem 273: Sum of Squares
+	274	 - 	Problem 274: Divisibility Multipliers
+	275	 - 	Problem 275: Balanced Sculptures
+	276	 - 	Problem 276: Primitive Triangles
+	277	 - 	Problem 277: A Modified Collatz sequence
+	278	 - 	Problem 278: Linear Combinations of Semiprimes
+	279	 - 	Problem 279: Triangles with integral sides and an integral angle
+	280	 - 	Problem 280: Ant and seeds
+	281	 - 	Problem 281: Pizza Toppings
+	282	 - 	Problem 282: The Ackermann function
+	283	 - 	Problem 283: Integer sided triangles for which the area/perimeter ratio is integral
+	284	 - 	Problem 284: Steady Squares
+	285	 - 	Problem 285: Pythagorean odds
+	286	 - 	Problem 286: Scoring probabilities
+	287	 - 	Problem 287: Quadtree encoding (a simple compression algorithm)
+	288	 - 	Problem 288: An enormous factorial
+	289	 - 	Problem 289: Eulerian Cycles
+	290	 - 	Problem 290: Digital Signature
+	291	 - 	Problem 291: Panaitopol Primes
+	292	 - 	Problem 292: Pythagorean Polygons
+	293	 - 	Problem 293: Pseudo-Fortunate Numbers
+	294	 - 	Problem 294: Sum of digits - experience #23
+	295	 - 	Problem 295: Lenticular holes
+	296	 - 	Problem 296: Angular Bisector and Tangent
+	297	 - 	Problem 297: Zeckendorf Representation
+	298	 - 	Problem 298: Selective Amnesia
+	299	 - 	Problem 299: Three similar triangles
+	300	 - 	Problem 300: Protein folding
+	301	 - 	Problem 301: Nim
+	302	 - 	Problem 302: Strong Achilles Numbers
+	303	 - 	Problem 303: Multiples with small digits
+	304	 - 	Problem 304: Primonacci
+	305	 - 	Problem 305: Reflexive Position
+	306	 - 	Problem 306: Paper-strip Game
+	307	 - 	Problem 307: Chip Defects
+	308	 - 	Problem 308: An amazing Prime-generating Automaton
+	309	 - 	Problem 309: Integer Ladders
+	310	 - 	Problem 310: Nim Square
+	311	 - 	Problem 311: Biclinic Integral Quadrilaterals
+	312	 - 	Problem 312: Cyclic paths on Sierpiński graphs
+	313	 - 	Problem 313: Sliding game
+	314	 - 	Problem 314: The Mouse on the Moon
+	315	 - 	Problem 315: Digital root clocks
+	316	 - 	Problem 316: Numbers in decimal expansions
+	317	 - 	Problem 317: Firecracker
+	318	 - 	Problem 318: 2011 nines
+	319	 - 	Problem 319: Bounded Sequences
+	320	 - 	Problem 320: Factorials divisible by a huge integer
+	321	 - 	Problem 321: Swapping Counters
+	322	 - 	Problem 322: Binomial coefficients divisible by 10
+	323	 - 	Problem 323: Bitwise-OR operations on random integers
+	324	 - 	Problem 324: Building a tower
+	325	 - 	Problem 325: Stone Game II
+	326	 - 	Problem 326: Modulo Summations
+	327	 - 	Problem 327: Rooms of Doom
+	328	 - 	Problem 328: Lowest-cost Search
+	329	 - 	Problem 329: Prime Frog
+	330	 - 	Problem 330: Euler's Number
+	331	 - 	Problem 331: Cross flips
+	332	 - 	Problem 332: Spherical triangles
+	333	 - 	Problem 333: Special partitions
+	334	 - 	Problem 334: Spilling the beans
+	335	 - 	Problem 335: Gathering the beans
+	336	 - 	Problem 336: Maximix Arrangements
+	337	 - 	Problem 337: Totient Stairstep Sequences
+	338	 - 	Problem 338: Cutting Rectangular Grid Paper
+	339	 - 	Problem 339: Peredur fab Efrawg
+	340	 - 	Problem 340: Crazy Function
+	341	 - 	Problem 341: Golomb's self-describing sequence
+	342	 - 	Problem 342: The totient of a square is a cube
+	343	 - 	Problem 343: Fractional Sequences
+	344	 - 	Problem 344: Silver dollar game
+	345	 - 	Problem 345: Matrix Sum
+	346	 - 	Problem 346: Strong Repunits
+	347	 - 	Problem 347: Largest integer divisible by two primes
+	348	 - 	Problem 348: Sum of a square and a cube
+	349	 - 	Problem 349: Langton's ant
+	350	 - 	Problem 350: Constraining the least greatest and the greatest least
+	351	 - 	Problem 351: Hexagonal orchards
+	352	 - 	Problem 352: Blood tests
+	353	 - 	Problem 353: Risky moon
+	354	 - 	Problem 354: Distances in a bee's honeycomb
+	355	 - 	Problem 355: Maximal coprime subset
+	356	 - 	Problem 356: Largest roots of cubic polynomials
+	357	 - 	Problem 357: Prime generating integers
+	358	 - 	Problem 358: Cyclic numbers
+	359	 - 	Problem 359: Hilbert's New Hotel
+	360	 - 	Problem 360: Scary Sphere
+	361	 - 	Problem 361: Subsequence of Thue-Morse sequence
+	362	 - 	Problem 362: Squarefree factors
+	363	 - 	Problem 363: Bézier Curves
+	364	 - 	Problem 364: Comfortable distance
+	365	 - 	Problem 365: A huge binomial coefficient
+	366	 - 	Problem 366: Stone Game III
+	367	 - 	Problem 367: Bozo sort
+	368	 - 	Problem 368: A Kempner-like series
+	369	 - 	Problem 369: Badugi
+	370	 - 	Problem 370: Geometric triangles
+	371	 - 	Problem 371: Licence plates
+	372	 - 	Problem 372: Pencils of rays
+	373	 - 	Problem 373: Circumscribed Circles
+	374	 - 	Problem 374: Maximum Integer Partition Product
+	375	 - 	Problem 375: Minimum of subsequences
+	376	 - 	Problem 376: Nontransitive sets of dice
+	377	 - 	Problem 377: Sum of digits, experience 13
+	378	 - 	Problem 378: Triangle Triples
+	379	 - 	Problem 379: Least common multiple count
+	380	 - 	Problem 380: Amazing Mazes!
+	381	 - 	Problem 381: (prime-k) factorial
+	382	 - 	Problem 382: Generating polygons
+	383	 - 	Problem 383: Divisibility comparison between factorials
+	384	 - 	Problem 384: Rudin-Shapiro sequence
+	385	 - 	Problem 385: Ellipses inside triangles
+	386	 - 	Problem 386: Maximum length of an antichain
+	387	 - 	Problem 387: Harshad Numbers
+	388	 - 	Problem 388: Distinct Lines
+	389	 - 	Problem 389: Platonic Dice
+	390	 - 	Problem 390: Triangles with non rational sides and integral area
+	391	 - 	Problem 391: Hopping Game
+	392	 - 	Problem 392: Enmeshed unit circle
+	393	 - 	Problem 393: Migrating ants
+	394	 - 	Problem 394: Eating pie
+	395	 - 	Problem 395: Pythagorean tree
+	396	 - 	Problem 396: Weak Goodstein sequence
+	397	 - 	Problem 397: Triangle on parabola
+	398	 - 	Problem 398: Cutting rope
+	399	 - 	Problem 399: Squarefree Fibonacci Numbers
+	400	 - 	Problem 400: Fibonacci tree game
+	401	 - 	Problem 401: Sum of squares of divisors
+	402	 - 	Problem 402: Integer-valued polynomials
+	403	 - 	Problem 403: Lattice points enclosed by parabola and line
+	404	 - 	Problem 404: Crisscross Ellipses
+	405	 - 	Problem 405: A rectangular tiling
+	406	 - 	Problem 406: Guessing Game
+	407	 - 	Problem 407: Idempotents
+	408	 - 	Problem 408: Admissible paths through a grid
+	409	 - 	Problem 409: Nim Extreme
+	410	 - 	Problem 410: Circle and tangent line
+	411	 - 	Problem 411: Uphill paths
+	412	 - 	Problem 412: Gnomon numbering
+	413	 - 	Problem 413: One-child Numbers
+	414	 - 	Problem 414: Kaprekar constant
+	415	 - 	Problem 415: Titanic sets
+	416	 - 	Problem 416: A frog's trip
+	417	 - 	Problem 417: Reciprocal cycles II
+	418	 - 	Problem 418: Factorisation triples
+	419	 - 	Problem 419: Look and say sequence
+	420	 - 	Problem 420: 2x2 positive integer matrix
+	421	 - 	Problem 421: Prime factors of n15+1
+	422	 - 	Problem 422: Sequence of points on a hyperbola
+	423	 - 	Problem 423: Consecutive die throws
+	424	 - 	Problem 424: Kakuro
+	425	 - 	Problem 425: Prime connection
+	426	 - 	Problem 426: Box-ball system
+	427	 - 	Problem 427: n-sequences
+	428	 - 	Problem 428: Necklace of Circles
+	429	 - 	Problem 429: Sum of squares of unitary divisors
+	430	 - 	Problem 430: Range flips
+	431	 - 	Problem 431: Square Space Silo
+	432	 - 	Problem 432: Totient sum
+	433	 - 	Problem 433: Steps in Euclid's algorithm
+	434	 - 	Problem 434: Rigid graphs
+	435	 - 	Problem 435: Polynomials of Fibonacci numbers
+	436	 - 	Problem 436: Unfair wager
+	437	 - 	Problem 437: Fibonacci primitive roots
+	438	 - 	Problem 438: Integer part of polynomial equation's solutions
+	439	 - 	Problem 439: Sum of sum of divisors
+	440	 - 	Problem 440: GCD and Tiling
+	441	 - 	Problem 441: The inverse summation of coprime couples
+	442	 - 	Problem 442: Eleven-free integers
+	443	 - 	Problem 443: GCD sequence
+	444	 - 	Problem 444: The Roundtable Lottery
+	445	 - 	Problem 445: Retractions A
+	446	 - 	Problem 446: Retractions B
+	447	 - 	Problem 447: Retractions C
+	448	 - 	Problem 448: Average least common multiple
+	449	 - 	Problem 449: Chocolate covered candy
+	450	 - 	Problem 450: Hypocycloid and Lattice points
+	451	 - 	Problem 451: Modular inverses
+	452	 - 	Problem 452: Long Products
+	453	 - 	Problem 453: Lattice Quadrilaterals
+	454	 - 	Problem 454: Diophantine reciprocals III
+	455	 - 	Problem 455: Powers With Trailing Digits
+	456	 - 	Problem 456: Triangles containing the origin II
+	457	 - 	Problem 457: A polynomial modulo the square of a prime
+	458	 - 	Problem 458: Permutations of Project
+	459	 - 	Problem 459: Flipping game
+	460	 - 	Problem 460: An ant on the move
+	461	 - 	Problem 461: Almost Pi
+	462	 - 	Problem 462: Permutation of 3-smooth numbers
+	463	 - 	Problem 463: A weird recurrence relation
+	464	 - 	Problem 464: Möbius function and intervals
+	465	 - 	Problem 465: Polar polygons
+	466	 - 	Problem 466: Distinct terms in a multiplication table
+	467	 - 	Problem 467: Superinteger
+	468	 - 	Problem 468: Smooth divisors of binomial coefficients
+	469	 - 	Problem 469: Empty chairs
+	470	 - 	Problem 470: Super Ramvok
+	471	 - 	Problem 471: Triangle inscribed in ellipse
+	472	 - 	Problem 472: Comfortable Distance II
+	473	 - 	Problem 473: Phigital number base
+	474	 - 	Problem 474: Last digits of divisors
+	475	 - 	Problem 475: Music festival
+	476	 - 	Problem 476: Circle Packing II
+	477	 - 	Problem 477: Number Sequence Game
+	478	 - 	Problem 478: Mixtures
+	479	 - 	Problem 479: Roots on the Rise
+	480	 - 	Problem 480: The Last Question
+```
 ==========================================================
