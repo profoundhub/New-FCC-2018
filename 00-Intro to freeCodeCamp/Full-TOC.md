@@ -1,14 +1,14 @@
 # Table of Contents
 
-1. Responsive Web Design Certification (300 hours)
-1A. Basic HTML and HTML5
-1B. Basic CSS
-1C. Applied Visual Design
-1D. Applied Accessibility
-1E. Responsive Web Design Principles
-1F. CSS Flexbox
-1G. CSS Grid
-1H. Responsive Web Design Projects
+* 1. Responsive Web Design Certification (300 hours)
+* * 1A. Basic HTML and HTML5
+* * 1B. Basic CSS
+* 1C. Applied Visual Design
+* 1D. Applied Accessibility
+* 1E. Responsive Web Design Principles
+* 1F. CSS Flexbox
+* 1G. CSS Grid
+* 1H. Responsive Web Design Projects
 
 2. Javascript Algorithms And Data Structures Certification (300 hours)
 2A. Basic JavaScript
@@ -55,11 +55,11 @@
 7D. Rosetta Code
 7E. Project Euler
 
-==========================================================
+---
 
 # 0. Welcome to Code Camp Club
 
-==========================================================
+---
 
 ## 1. Responsive Web Design Certification (300 hours)
 ## 1A. Basic HTML and HTML5
@@ -261,7 +261,7 @@
 21	 - 	Use tabindex to Add Keyboard Focus to an Element
 22	 - 	Use tabindex to Specify the Order of Keyboard Focus for Several Elements
 
-==========================================================
+---
 
 ## 1E. Responsive Web Design Principles
 
@@ -271,7 +271,7 @@
 3-Use a Retina Image for Higher Resolution Displays
 4-Make Typography Responsive
 
-==========================================================
+---
 
 ## 1F. CSS Flexbox
 
