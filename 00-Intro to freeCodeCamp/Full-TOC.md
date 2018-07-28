@@ -1,26 +1,27 @@
 # Table of Contents
-
-* 1. Responsive Web Design Certification (300 hours)
-* * 1A. Basic HTML and HTML5
-* * 1B. Basic CSS
-* 1C. Applied Visual Design
-* 1D. Applied Accessibility
-* 1E. Responsive Web Design Principles
-* 1F. CSS Flexbox
-* 1G. CSS Grid
-* 1H. Responsive Web Design Projects
-
-2. Javascript Algorithms And Data Structures Certification (300 hours)
-2A. Basic JavaScript
-2B. ES6 				
-2C. Regular Expressions 		
-2D. Debugging 				
-2E. Basic Data Structures 		
-2F. Basic Algorithm Scripting 		
-2G. Object Oriented Programming 	
-2H. Functional Programming 		
-2I. Intermediate Algorithm Scripting 	
-2J. JavaScript Algorithms and Data Structures Projects 				
+| Number        | Title           | Notes  |
+| ------------- |:-------------| -----:|
+| 1. | Responsive Web Design Certification (300 hours) | 
+| 1A. | Basic HTML and HTML5 | 
+| 1B. | Basic CSS | 
+| 1C. | Applied Visual Design | 
+| 1D. | Applied Accessibility | 
+| 1E. | Responsive Web Design Principles | 
+| 1F. | CSS Flexbox | 
+| 1G. | CSS Grid | 
+| 1H. | Responsive Web Design Projects | 
+|  | 
+| 2. | Javascript Algorithms And Data Structures Certification (300 hours)
+| 2A. | Basic JavaScript
+| 2B. | ES6 				
+| 2C. | Regular Expressions 		
+| 2D. | Debugging 				
+| 2E. | Basic Data Structures 		
+| 2F. | Basic Algorithm Scripting 		
+| 2G. | Object Oriented Programming 	
+| 2H. | Functional Programming 		
+| 2I. | Intermediate Algorithm Scripting 	
+| 2J. | JavaScript Algorithms and Data Structures Projects 				
 
 3. Front End Libraries Certification (300 hours)
 3A. Bootstrap	 				
