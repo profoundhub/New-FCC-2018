@@ -10,11 +10,17 @@
         // Add your code below this line
         
         
-        
         // Add your code above this line
-        document.getElementsByClassName('message')[0].innerHTML=html;
-      };
-    }
+         json.forEach(function(val) {
+           html += "<div class = 'cat'>"
+           
+           html += "<img src = '" + val.imageLink + "' " + "alt='" + val.altText + "'>"
+           
+           html += "</div>"
+         });
+         document.getElementsByClassName('message')[0].innerHTML=html;
+       };
+     }; 
   });
 </script>
 <style>
