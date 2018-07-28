@@ -1,3 +1,4 @@
 # Build a Personal Portfolio Webpage
 Place a link to your CodePen below
-* [JeanB](http://codepen.io/webmachine/pen/EWBvyo)
+* [JeanB](https://codepen.io/webmachine/pen/MBOpoa)
+not fully responsive yet, not all sections have content but all test passed
