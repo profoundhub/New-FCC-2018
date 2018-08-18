@@ -1,5 +1,6 @@
 # Use Headings to Show Hierarchical Relationships of Content
 
+
 ```
   <h1>How to Become a Ninja</h1>
   <main>
